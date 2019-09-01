@@ -1,0 +1,1705 @@
+Server running at 127.0.0.1:53
+[ ERROR ] - 2019.8.31.14.14.30 - (node:22101) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+1567262860146 - 121.138.48.180:54132 - udp4 - apis.naver.com
+1567262860147 - 121.138.48.180:51788 - udp4 - www.icloud.com
+1567262860148 - 121.138.48.180:60959 - udp4 - www.apple.com
+1567262860148 - 121.138.48.180:62660 - udp4 - musicmeta-phinf.pstatic.net
+1567262860148 - 121.138.48.180:57670 - udp4 - nelo2-col.navercorp.com
+1567262860149 - 121.138.48.180:61999 - udp4 - app-measurement.com
+1567262860149 - 121.138.48.180:65534 - udp4 - cl3.apple.com
+1567262860158 - 121.138.48.180:49966 - udp4 - place-api.loplat.com
+1567262860158 - 121.138.48.180:57946 - udp4 - apple.com
+1567262860160 - 121.138.48.180:64669 - udp4 - ssl.google-analytics.com
+1567262860247 - 121.138.48.180:59921 - udp4 - gsp9-ssl.apple.com
+1567262860273 - 121.138.48.180:61121 - udp4 - imap.gmail.com
+1567262861360 - 121.138.48.180:59283 - udp4 - init-p01st.push.apple.com
+1567262862453 - 121.138.48.180:52148 - udp4 - cds.apple.com
+1567262872495 - 121.138.48.180:53836 - udp4 - mesu.apple.com
+1567262872496 - 121.138.48.180:57248 - udp4 - gateway.icloud.com
+1567262875760 - 121.138.48.180:63777 - udp4 - metrics.icloud.com
+1567262967807 - 121.138.48.180:60997 - udp4 - place-api.loplat.com
+1567262987910 - 121.138.48.180:63593 - udp4 - app.map.kakao.com
+1567263009883 - 121.138.48.180:65425 - udp4 - graph.facebook.com
+1567263010695 - 121.138.48.180:56819 - udp4 - settings.crashlytics.com
+1567263010722 - 121.138.48.180:59414 - udp4 - e.crashlytics.com
+1567263010786 - 121.138.48.180:61794 - udp4 - play.googleapis.com
+1567263010834 - 121.138.48.180:51150 - udp4 - p21-buy.itunes.apple.com
+1567263011122 - 121.138.48.180:58339 - udp4 - www.google.com
+1567263011208 - 121.138.48.180:54224 - udp4 - sdk.iad-01.braze.com
+1567263012439 - 121.138.48.180:54459 - udp4 - www.gstatic.com
+1567263012568 - 121.138.48.180:54607 - udp4 - time.google.com
+1567263012649 - 121.138.48.180:57821 - udp4 - app-auth.banksalad.com
+1567263012754 - 121.138.48.180:50132 - udp4 - sdk.iad-03.braze.com
+1567263014278 - 121.138.48.180:65169 - udp4 - check.banksalad.com
+1567263014370 - 121.138.48.180:60334 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567263014373 - 121.138.48.180:64941 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.8.31.23.50.14 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.8.31.23.50.14 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567263014437 - 121.138.48.180:58294 - udp4 - api-gateway.banksalad.com
+1567263014787 - 121.138.48.180:64405 - udp4 - ultron.banksalad.com
+1567263015374 - 121.138.48.180:64941 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.8.31.23.50.15 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.8.31.23.50.15 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567263017386 - 121.138.48.180:64941 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.8.31.23.50.17 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.8.31.23.50.17 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567263018392 - 121.138.48.180:64941 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.8.31.23.50.18 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.8.31.23.50.18 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567263020397 - 121.138.48.180:64941 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.8.31.23.50.20 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.8.31.23.50.20 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567263024405 - 121.138.48.180:64941 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.8.31.23.50.24 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.8.31.23.50.24 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567263032405 - 121.138.48.180:64941 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.8.31.23.50.32 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.8.31.23.50.32 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567263042744 - 121.138.48.180:64903 - udp4 - api.amplitude.com
+1567263048410 - 121.138.48.180:64941 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.8.31.23.50.48 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.8.31.23.50.48 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+1567263098607 - 121.138.48.180:56572 - udp4 - lb._dns-sd._udp.210.194.157.28.in-addr.arpa
+1567263098608 - 121.138.48.180:64962 - udp4 - lb._dns-sd._udp.0.0.168.192.in-addr.arpa
+1567263098608 - 121.138.48.180:59623 - udp4 - lb._dns-sd._udp.126.202.159.102.in-addr.arpa
+1567263098926 - 121.138.48.180:49499 - udp4 - edge-mqtt.facebook.com
+1567263099097 - 121.138.48.180:58798 - udp4 - api.facebook.com
+1567263099098 - 121.138.48.180:55840 - udp4 - b-api.facebook.com
+1567263099105 - 121.138.48.180:63649 - udp4 - b-graph.facebook.com
+1567263099105 - 121.138.48.180:58320 - udp4 - lithium.facebook.com
+1567263099605 - 121.138.48.180:59623 - udp4 - lb._dns-sd._udp.126.202.159.102.in-addr.arpa
+1567263099605 - 121.138.48.180:56572 - udp4 - lb._dns-sd._udp.210.194.157.28.in-addr.arpa
+1567263099605 - 121.138.48.180:64962 - udp4 - lb._dns-sd._udp.0.0.168.192.in-addr.arpa
+1567263101373 - 121.138.48.180:52464 - udp4 - scontent-icn1-1.xx.fbcdn.net
+1567263101702 - 121.138.48.180:56572 - udp4 - lb._dns-sd._udp.210.194.157.28.in-addr.arpa
+1567263101703 - 121.138.48.180:64962 - udp4 - lb._dns-sd._udp.0.0.168.192.in-addr.arpa
+1567263101703 - 121.138.48.180:59623 - udp4 - lb._dns-sd._udp.126.202.159.102.in-addr.arpa
+1567263102329 - 121.138.48.180:63511 - udp4 - www.facebook.com
+1567263102666 - 121.138.48.180:56572 - udp4 - lb._dns-sd._udp.210.194.157.28.in-addr.arpa
+1567263102667 - 121.138.48.180:59623 - udp4 - lb._dns-sd._udp.126.202.159.102.in-addr.arpa
+1567263102667 - 121.138.48.180:64962 - udp4 - lb._dns-sd._udp.0.0.168.192.in-addr.arpa
+1567263104617 - 121.138.48.180:56572 - udp4 - lb._dns-sd._udp.210.194.157.28.in-addr.arpa
+1567263104617 - 121.138.48.180:64962 - udp4 - lb._dns-sd._udp.0.0.168.192.in-addr.arpa
+1567263104618 - 121.138.48.180:59623 - udp4 - lb._dns-sd._udp.126.202.159.102.in-addr.arpa
+1567263108626 - 121.138.48.180:56572 - udp4 - lb._dns-sd._udp.210.194.157.28.in-addr.arpa
+1567263108626 - 121.138.48.180:64962 - udp4 - lb._dns-sd._udp.0.0.168.192.in-addr.arpa
+1567263108627 - 121.138.48.180:59623 - udp4 - lb._dns-sd._udp.126.202.159.102.in-addr.arpa
+1567263229854 - 121.138.48.180:64081 - udp4 - api.smoot.apple.com
+1567263230929 - 121.138.48.180:54635 - udp4 - apple-finance.query.yahoo.com
+1567263240402 - 121.138.48.180:61639 - udp4 - oauthaccountmanager.googleapis.com
+1567263240457 - 121.138.48.180:56270 - udp4 - www.googleadservices.com
+1567263240723 - 121.138.48.180:50466 - udp4 - inbox.google.com
+1567263630965 - 121.138.48.180:49200 - udp4 - iid.googleapis.com
+1567263632592 - 121.138.48.180:57746 - udp4 - cloudconfig.googleapis.com
+1567263632640 - 121.138.48.180:59107 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.0.32 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.0.32 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567263633651 - 121.138.48.180:59107 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.0.33 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.0.33 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567263635657 - 121.138.48.180:59107 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.0.35 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.0.35 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567263636662 - 121.138.48.180:59107 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.0.36 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.0.36 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567263638668 - 121.138.48.180:59107 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.0.38 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.0.38 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567263642672 - 121.138.48.180:59107 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.0.42 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.0.42 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567263650674 - 121.138.48.180:59107 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.0.50 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.0.50 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+1567263666711 - 121.138.48.180:59107 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.1.6 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80e::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.1.6 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80e::200a","ttl":3600,"class":"IN"}
+1567264199253 - 121.138.48.180:51101 - udp4 - gsp64-ssl.ls.apple.com
+1567264202806 - 121.138.48.180:59126 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.10.2 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.10.2 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567264203814 - 121.138.48.180:59126 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.10.3 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.10.3 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567264205817 - 121.138.48.180:59126 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.10.5 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.10.5 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567264206817 - 121.138.48.180:59126 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.10.6 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.10.6 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567264208823 - 121.138.48.180:59126 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.10.8 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.10.8 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567264209687 - 121.138.48.180:56215 - udp4 - 33-courier.push.apple.com
+1567264212476 - 121.138.48.180:56089 - udp4 - game.clashofclans.com
+1567264212704 - 121.138.48.180:52977 - udp4 - inbox.clashofclans.com
+1567264212821 - 121.138.48.180:59126 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.10.12 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.10.12 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567264213590 - 121.138.48.180:56095 - udp4 - itunes.apple.com
+1567264213708 - 121.138.48.180:52977 - udp4 - inbox.clashofclans.com
+1567264214208 - 121.138.48.180:64589 - udp4 - www.googletagmanager.com
+1567264214636 - 121.138.48.180:59244 - udp4 - www.youtube.com
+1567264214906 - 121.138.48.180:58497 - udp4 - s.ytimg.com
+1567264216161 - 121.138.48.180:56080 - udp4 - supercell.helpshift.com
+1567264216300 - 121.138.48.180:51615 - udp4 - event-assets.clashofclans.com
+1567264216749 - 121.138.48.180:62897 - udp4 - static.gc.apple.com
+1567264216868 - 121.138.48.180:64677 - udp4 - profile.gc.apple.com
+1567264217411 - 121.138.48.180:63028 - udp4 - init.gc.apple.com
+1567264217800 - 121.138.48.180:58389 - udp4 - friend.gc.apple.com
+1567264217802 - 121.138.48.180:53550 - udp4 - stats.gc.apple.com
+1567264218472 - 121.138.48.180:63491 - udp4 - init.itunes.apple.com
+1567264218591 - 121.138.48.180:51726 - udp4 - challenge.gc.apple.com
+1567264218593 - 121.138.48.180:55056 - udp4 - turn.gc.apple.com
+1567264218657 - 121.138.48.180:53393 - udp4 - xp.apple.com
+1567264218658 - 121.138.48.180:63939 - udp4 - sp.itunes.apple.com
+1567264220828 - 121.138.48.180:59126 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.10.20 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.10.20 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+1567264231108 - 121.138.48.180:56662 - udp4 - 1681.engine.mobileapptracking.com
+1567264236838 - 121.138.48.180:59126 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.10.36 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.10.36 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+1567264718658 - 121.138.48.180:51522 - udp4 - guzzoni.apple.com
+1567264958291 - 121.138.48.180:62350 - udp4 - time-ios.apple.com
+1567264961890 - 121.138.48.180:54971 - udp4 - api-glb-sel.smoot.apple.com
+1567264963988 - 121.138.48.180:54723 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.22.44 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.22.44 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567264964994 - 121.138.48.180:54723 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.22.45 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.22.45 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567264967006 - 121.138.48.180:54723 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.22.47 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.22.47 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567264968011 - 121.138.48.180:54723 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.22.48 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.22.48 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567264970016 - 121.138.48.180:54723 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.22.50 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.22.50 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567264974016 - 121.138.48.180:54723 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.22.54 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.22.54 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567264982014 - 121.138.48.180:54723 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.23.2 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.23.2 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+1567264998025 - 121.138.48.180:54723 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.23.18 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.23.18 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567265577314 - 121.138.48.180:61626 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.32.57 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.32.57 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567265578317 - 121.138.48.180:61626 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.32.58 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.32.58 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567265580329 - 121.138.48.180:61626 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.33.0 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.33.0 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+1567265581359 - 121.138.48.180:61626 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.33.1 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.33.1 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567265583336 - 121.138.48.180:61626 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.33.3 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.33.3 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567265587341 - 121.138.48.180:61626 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.33.7 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.33.7 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567265595340 - 121.138.48.180:61626 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.33.15 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.33.15 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567265611355 - 121.138.48.180:61626 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.33.31 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.33.31 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567265711989 - 121.138.48.180:60751 - udp4 - game.clashroyaleapp.com
+1567265714456 - 121.138.48.180:58346 - udp4 - inbox-production.esports.clashroyale.com
+1567265714494 - 121.138.48.180:57236 - udp4 - event-assets.clashroyale.com
+1567265714596 - 121.138.48.180:55735 - udp4 - inbox.clashroyale.com
+1567265809573 - 121.138.48.180:53438 - udp4 - p56-keyvalueservice.icloud.com
+1567266624711 - 121.138.48.180:63706 - udp4 - app-measurement.com
+1567266625084 - 121.138.48.180:63958 - udp4 - p21-buy.itunes.apple.com
+1567266625382 - 121.138.48.180:49637 - udp4 - play.googleapis.com
+1567266625389 - 121.138.48.180:53843 - udp4 - settings.crashlytics.com
+1567266625418 - 121.138.48.180:63203 - udp4 - e.crashlytics.com
+1567266625640 - 121.138.48.180:61647 - udp4 - graph.facebook.com
+1567266626601 - 121.138.48.180:56539 - udp4 - as.atlassian.com
+1567266626883 - 121.138.48.180:54770 - udp4 - trello.com
+1567266626915 - 121.138.48.180:61489 - udp4 - www.google.com
+1567266627011 - 121.138.48.180:60240 - udp4 - sdk.iad-01.braze.com
+1567266627065 - 121.138.48.180:49592 - udp4 - c.trello.com
+1567266627599 - 121.138.48.180:52054 - udp4 - google.com
+1567266628508 - 121.138.48.180:56043 - udp4 - www.gstatic.com
+1567266628663 - 121.138.48.180:60025 - udp4 - time.google.com
+1567266628822 - 121.138.48.180:57851 - udp4 - app-auth.banksalad.com
+1567266630939 - 121.138.48.180:53303 - udp4 - sdk.iad-03.braze.com
+1567266631239 - 121.138.48.180:63248 - udp4 - check.banksalad.com
+1567266631412 - 121.138.48.180:58231 - udp4 - api-gateway.banksalad.com
+1567266631460 - 121.138.48.180:61973 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567266631462 - 121.138.48.180:52059 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.50.31 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.50.31 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+1567266631853 - 121.138.48.180:52673 - udp4 - ultron.banksalad.com
+1567266632467 - 121.138.48.180:52059 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.50.32 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.50.32 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567266634496 - 121.138.48.180:52059 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.50.34 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.50.34 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567266635483 - 121.138.48.180:52059 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.50.35 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.50.35 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567266637489 - 121.138.48.180:52059 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.50.37 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.50.37 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567266641488 - 121.138.48.180:52059 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.50.41 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.50.41 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567266649499 - 121.138.48.180:52059 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.50.49 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.50.49 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567266665503 - 121.138.48.180:52059 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.0.51.5 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.0.51.5 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567267061901 - 121.138.48.180:55797 - udp4 - app.map.kakao.com
+1567267560512 - 121.138.48.180:55459 - udp4 - cloudconfig.googleapis.com
+1567267560558 - 121.138.48.180:59164 - udp4 - iid.googleapis.com
+1567267560677 - 121.138.48.180:52189 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.6.0 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.6.0 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+1567267561677 - 121.138.48.180:52189 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.6.1 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.6.1 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567267563685 - 121.138.48.180:52189 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.6.3 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.6.3 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567267564688 - 121.138.48.180:52189 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.6.4 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.6.4 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567267566694 - 121.138.48.180:52189 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.6.6 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.6.6 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+1567267570697 - 121.138.48.180:52189 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.6.10 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.6.10 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567267578699 - 121.138.48.180:52189 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.6.18 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.6.18 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567267589248 - 121.138.48.180:64382 - udp4 - api.amplitude.com
+1567267594706 - 121.138.48.180:52189 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.6.34 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.6.34 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+1567268132660 - 121.138.48.180:50427 - udp4 - gateway.icloud.com
+1567268136064 - 121.138.48.180:64527 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.15.36 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.15.36 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567268137067 - 121.138.48.180:64527 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.15.37 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.15.37 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567268139075 - 121.138.48.180:64527 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.15.39 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.15.39 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567268140079 - 121.138.48.180:64527 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.15.40 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.15.40 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567268142080 - 121.138.48.180:64527 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.15.42 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.15.42 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567268146086 - 121.138.48.180:64527 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.15.46 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.15.46 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567268154090 - 121.138.48.180:64527 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.15.54 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.15.54 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567268170097 - 121.138.48.180:64527 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.16.10 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.16.10 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+1567268711357 - 121.138.48.180:63921 - udp4 - lcdn-locator.apple.com
+1567268727869 - 121.138.48.180:51975 - udp4 - init.itunes.apple.com
+1567268728107 - 121.138.48.180:53371 - udp4 - xp.apple.com
+1567268731331 - 121.138.48.180:62233 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.25.31 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.25.31 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567268732360 - 121.138.48.180:62233 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.25.32 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.25.32 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567268734348 - 121.138.48.180:62233 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.25.34 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.25.34 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567268735353 - 121.138.48.180:62233 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.25.35 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.25.35 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567268737364 - 121.138.48.180:62233 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.25.37 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.25.37 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567268741374 - 121.138.48.180:62233 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.25.41 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.25.41 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567268749390 - 121.138.48.180:62233 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.25.49 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.25.49 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567268765379 - 121.138.48.180:62233 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.26.5 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.26.5 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567268771153 - 121.138.48.180:56489 - udp4 - edge-mqtt.facebook.com
+1567268771493 - 121.138.48.180:52393 - udp4 - lithium.facebook.com
+1567268773714 - 121.138.48.180:58303 - udp4 - scontent-icn1-1.xx.fbcdn.net
+1567268773781 - 121.138.48.180:57759 - udp4 - video-icn1-1.xx.fbcdn.net
+1567268774568 - 121.138.48.180:60076 - udp4 - external-icn1-1.xx.fbcdn.net
+1567268774568 - 121.138.48.180:53582 - udp4 - init-p01st.push.apple.com
+1567268774768 - 121.138.48.180:59914 - udp4 - 42-courier.push.apple.com
+1567268776872 - 121.138.48.180:62594 - udp4 - www.apple.com
+1567268776872 - 121.138.48.180:53028 - udp4 - www.icloud.com
+1567268776872 - 121.138.48.180:61324 - udp4 - apple.com
+1567268776873 - 121.138.48.180:63939 - udp4 - ssl.google-analytics.com
+1567268813707 - 121.138.48.180:63484 - udp4 - nelo2-col.navercorp.com
+1567268813916 - 121.138.48.180:65138 - udp4 - ace.naver.com
+1567268813937 - 121.138.48.180:60448 - udp4 - cc.naver.com
+1567268813938 - 121.138.48.180:57560 - udp4 - l.m.naver.com
+1567268814168 - 121.138.48.180:49249 - udp4 - lcs.naver.com
+1567268814179 - 121.138.48.180:59183 - udp4 - global.apis.naver.com
+1567268814205 - 121.138.48.180:57843 - udp4 - apis.naver.com
+1567268814653 - 121.138.48.180:62614 - udp4 - sp.naver.com
+1567268814854 - 121.138.48.180:63025 - udp4 - www.naver.com
+1567268814856 - 121.138.48.180:55422 - udp4 - mts.naver.com
+1567268815033 - 121.138.48.180:50189 - udp4 - configuration.apple.com
+1567268815033 - 121.138.48.180:49615 - udp4 - gsp-sl01-ssl.ls.apple.com
+1567268815034 - 121.138.48.180:63706 - udp4 - m.naver.com
+1567268815373 - 121.138.48.180:60142 - udp4 - gsp64-ssl.ls.apple.com
+1567268815458 - 121.138.48.180:64186 - udp4 - ssl.pstatic.net
+1567268815460 - 121.138.48.180:55357 - udp4 - s.pstatic.net
+1567268816113 - 121.138.48.180:49573 - udp4 - ocsp.apple.com
+1567268816163 - 121.138.48.180:65363 - udp4 - api.appnotice.naver.com
+1567268816880 - 121.138.48.180:54098 - udp4 - adlog.shopping.naver.com
+1567268817157 - 121.138.48.180:50990 - udp4 - mac.search.naver.com
+1567268817717 - 121.138.48.180:62529 - udp4 - mv.veta.naver.com
+1567268822576 - 121.138.48.180:64192 - udp4 - m.search.naver.com
+1567268822809 - 121.138.48.180:63399 - udp4 - search.pstatic.net
+1567268823407 - 121.138.48.180:61662 - udp4 - er.search.naver.com
+1567268848211 - 121.138.48.180:51680 - udp4 - gsp10-ssl.apple.com
+1567268850107 - 121.138.48.180:56243 - udp4 - i.ytimg.com
+1567268856644 - 121.138.48.180:58780 - udp4 - m.blog.naver.com
+1567268857844 - 121.138.48.180:55422 - udp4 - mblogthumb-phinf.pstatic.net
+1567268857846 - 121.138.48.180:56004 - udp4 - blogpfthumb-phinf.pstatic.net
+1567268858612 - 121.138.48.180:60443 - udp4 - gfp.veta.naver.com
+1567268858620 - 121.138.48.180:50605 - udp4 - blog.like.naver.com
+1567268858868 - 121.138.48.180:56145 - udp4 - phinf.pstatic.net
+1567268858908 - 121.138.48.180:52537 - udp4 - nil.naver.com
+1567268859163 - 121.138.48.180:63556 - udp4 - editor-static.pstatic.net
+1567268859371 - 121.138.48.180:62628 - udp4 - tivan.naver.com
+1567268859509 - 121.138.48.180:55325 - udp4 - sstatic-g.rmcnmv.naver.net
+1567268974450 - 121.138.48.180:51392 - udp4 - mesu.apple.com
+1567269009739 - 121.138.48.180:60711 - udp4 - event.impression-neo.naver.com
+1567269023385 - 121.138.48.180:59017 - udp4 - video.pstatic.net
+1567269056445 - 121.138.48.180:63148 - udp4 - time-ios.apple.com
+1567269069264 - 121.138.48.180:61230 - udp4 - metrics.icloud.com
+1567269126505 - 121.138.48.180:54224 - udp4 - 5-courier.push.apple.com
+1567269157681 - 121.138.48.180:59436 - udp4 - www.facebook.com
+1567269215339 - 121.138.48.180:61138 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.33.35 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.33.35 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567269216351 - 121.138.48.180:61138 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.33.36 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.33.36 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567269218365 - 121.138.48.180:61138 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.33.38 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.33.38 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+1567269219361 - 121.138.48.180:61138 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.33.39 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.33.39 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567269221366 - 121.138.48.180:61138 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.33.41 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.33.41 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+1567269225364 - 121.138.48.180:61138 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.33.45 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.33.45 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567269233375 - 121.138.48.180:61138 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.33.53 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.33.53 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567269249386 - 121.138.48.180:61138 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.34.9 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.34.9 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567270774097 - 121.138.48.180:58554 - udp4 - app.map.kakao.com
+1567270774953 - 121.138.48.180:60061 - udp4 - graph.facebook.com
+1567270775362 - 121.138.48.180:65276 - udp4 - settings.crashlytics.com
+1567270775378 - 121.138.48.180:60449 - udp4 - e.crashlytics.com
+1567270775565 - 121.138.48.180:59921 - udp4 - play.googleapis.com
+1567270775566 - 121.138.48.180:58553 - udp4 - app-measurement.com
+1567270775737 - 121.138.48.180:55397 - udp4 - sdk.iad-01.braze.com
+1567270775737 - 121.138.48.180:61877 - udp4 - www.google.com
+1567270775907 - 121.138.48.180:61377 - udp4 - p21-buy.itunes.apple.com
+1567270776448 - 121.138.48.180:53462 - udp4 - www.gstatic.com
+1567270776489 - 121.138.48.180:63560 - udp4 - time.google.com
+1567270776568 - 121.138.48.180:63864 - udp4 - app-auth.banksalad.com
+1567270776681 - 121.138.48.180:55679 - udp4 - sdk.iad-03.braze.com
+1567270777324 - 121.138.48.180:57600 - udp4 - check.banksalad.com
+1567270777364 - 121.138.48.180:57696 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567270777365 - 121.138.48.180:65455 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+1567270777414 - 121.138.48.180:50754 - udp4 - api-gateway.banksalad.com
+[ ERROR ] - 2019.9.1.1.59.37 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.59.37 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567270777704 - 121.138.48.180:55679 - udp4 - sdk.iad-03.braze.com
+1567270777863 - 121.138.48.180:51326 - udp4 - ultron.banksalad.com
+1567270778374 - 121.138.48.180:65455 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.59.38 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.59.38 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567270780375 - 121.138.48.180:65455 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.59.40 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80e::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.59.40 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80e::200a","ttl":3600,"class":"IN"}
+1567270781380 - 121.138.48.180:65455 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.59.41 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.59.41 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567270783392 - 121.138.48.180:65455 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.59.43 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.59.43 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567270787393 - 121.138.48.180:65455 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.59.47 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.59.47 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567270795397 - 121.138.48.180:65455 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.1.59.55 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.1.59.55 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567270800957 - 121.138.48.180:64116 - udp4 - valid.apple.com
+1567270801330 - 121.138.48.180:58865 - udp4 - p52-mailws.icloud.com
+1567270801410 - 121.138.48.180:54487 - udp4 - imap.gmail.com
+1567270801635 - 121.138.48.180:64048 - udp4 - guzzoni.apple.com
+1567270801739 - 121.138.48.180:64699 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567270801791 - 121.138.48.180:63033 - udp4 - p56-contacts.icloud.com
+1567270801804 - 121.138.48.180:65132 - udp4 - google.com
+1567270801819 - 121.138.48.180:64117 - udp4 - p56-caldav.icloud.com
+1567270801831 - 121.138.48.180:65410 - udp4 - p52-imap.mail.me.com
+1567270802596 - 121.138.48.180:52957 - udp4 - calendar.google.com
+1567270802740 - 121.138.48.180:64699 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567270804390 - 121.138.48.180:49498 - udp4 - p56-keyvalueservice.icloud.com
+1567270804746 - 121.138.48.180:64699 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567270805884 - 121.138.48.180:64699 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567270806784 - 121.138.48.180:64322 - udp4 - 27-courier.push.apple.com
+1567270807756 - 121.138.48.180:64699 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567270811390 - 121.138.48.180:65455 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.0.11 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.0.11 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567270811868 - 121.138.48.180:64699 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567270819767 - 121.138.48.180:64699 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567270831782 - 121.138.48.180:58410 - udp4 - p70-bookmarks.icloud.com
+1567270833846 - 121.138.48.180:64366 - udp4 - gspe35-kr-ssl.ls.apple.com
+1567270835771 - 121.138.48.180:64699 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567270850243 - 121.138.48.180:63277 - udp4 - safebrowsing.googleapis.com
+1567270853426 - 121.138.48.180:64496 - udp4 - gsa.apple.com
+1567271085106 - 121.138.48.180:51134 - udp4 - gsas.apple.com
+1567271087694 - 121.138.48.180:51111 - udp4 - p56-escrowproxy.icloud.com
+1567271262798 - 121.138.48.180:63946 - udp4 - iid.googleapis.com
+1567271262803 - 121.138.48.180:50434 - udp4 - cloudconfig.googleapis.com
+1567271262973 - 121.138.48.180:51127 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.7.42 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.7.42 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+1567271263978 - 121.138.48.180:51127 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.7.44 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.7.44 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567271265989 - 121.138.48.180:51127 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.7.45 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.7.45 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567271266992 - 121.138.48.180:51127 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.7.47 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.7.47 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567271269000 - 121.138.48.180:51127 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.7.49 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.7.49 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567271272998 - 121.138.48.180:51127 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.7.53 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.7.53 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567271281009 - 121.138.48.180:51127 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.8.1 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.8.1 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567271291179 - 121.138.48.180:49308 - udp4 - api.amplitude.com
+1567271297019 - 121.138.48.180:51127 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.8.17 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.8.17 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567271734039 - 121.138.48.180:56234 - udp4 - gateway.icloud.com
+1567271734432 - 121.138.48.180:58574 - udp4 - api-glb-sel.smoot.apple.com
+1567271739770 - 121.138.48.180:51416 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.15.39 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.15.39 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567271740780 - 121.138.48.180:51416 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.15.40 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.15.40 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567271742779 - 121.138.48.180:51416 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.15.42 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.15.42 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567271743791 - 121.138.48.180:51416 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.15.43 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.15.43 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567271745786 - 121.138.48.180:51416 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.15.45 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.15.45 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567271748492 - 121.138.48.180:54847 - udp4 - p56-fmip.icloud.com
+1567271749796 - 121.138.48.180:51416 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.15.49 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.15.49 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567271757796 - 121.138.48.180:51416 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.15.57 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.15.57 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567271773808 - 121.138.48.180:51416 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.16.13 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.16.13 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567271821394 - 121.138.48.180:64320 - udp4 - p56-sharedstreams.icloud.com
+1567272105077 - 121.138.48.180:53018 - udp4 - pancake.apple.com
+1567272444896 - 121.138.48.180:2049 - udp4 - time.windows.com
+1567272675264 - 121.138.48.180:61303 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567272676268 - 121.138.48.180:61303 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567272678277 - 121.138.48.180:61303 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567272679284 - 121.138.48.180:61303 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567272680311 - 121.138.48.180:57334 - udp4 - 8-courier.push.apple.com
+1567272681284 - 121.138.48.180:61303 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567272682532 - 121.138.48.180:57007 - udp4 - init-p01st.push.apple.com
+1567272682533 - 121.138.48.180:49790 - udp4 - ssl.google-analytics.com
+1567272682533 - 121.138.48.180:64838 - udp4 - mesu.apple.com
+1567272682533 - 121.138.48.180:55337 - udp4 - www.apple.com
+1567272682534 - 121.138.48.180:52833 - udp4 - apple.com
+1567272685290 - 121.138.48.180:61303 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567272693295 - 121.138.48.180:61303 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567273127872 - 121.138.48.180:53559 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.38.47 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.38.47 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567273128877 - 121.138.48.180:53559 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.38.48 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.38.48 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567273130884 - 121.138.48.180:53559 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.38.50 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.38.50 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567273131893 - 121.138.48.180:53559 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.38.51 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.38.51 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567273133898 - 121.138.48.180:53559 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.38.53 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.38.53 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567273137898 - 121.138.48.180:53559 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.38.57 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.38.57 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567273145903 - 121.138.48.180:53559 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.39.5 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.39.5 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+1567273161907 - 121.138.48.180:53559 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.39.21 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.39.21 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+1567273641167 - 121.138.48.180:58760 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.47.21 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.47.21 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567273642173 - 121.138.48.180:58760 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.47.22 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.47.22 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+1567273644185 - 121.138.48.180:58760 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.47.24 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.47.24 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567273645189 - 121.138.48.180:58760 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.47.25 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.47.25 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+1567273647192 - 121.138.48.180:58760 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.47.27 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.47.27 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567273651200 - 121.138.48.180:58760 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.47.31 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.47.31 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+1567273659214 - 121.138.48.180:58760 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.47.39 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.47.39 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567273675210 - 121.138.48.180:58760 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.47.55 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80e::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.47.55 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80e::200a","ttl":3600,"class":"IN"}
+1567273835753 - 121.138.48.180:62253 - udp4 - time-ios.apple.com
+1567274215091 - 121.138.48.180:49444 - udp4 - init.itunes.apple.com
+1567274215311 - 121.138.48.180:63307 - udp4 - xp.apple.com
+1567274217716 - 121.138.48.180:58843 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.56.57 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.56.57 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567274218722 - 121.138.48.180:58843 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.56.58 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.56.58 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567274221739 - 121.138.48.180:58843 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.57.1 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.57.1 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567274223744 - 121.138.48.180:58843 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.57.3 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.57.3 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567274227749 - 121.138.48.180:58843 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.57.7 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.57.7 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567274235759 - 121.138.48.180:58843 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.57.15 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.57.15 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567274251756 - 121.138.48.180:58843 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.2.57.31 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.2.57.31 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+1567274374341 - 121.138.48.180:49486 - udp4 - ssl.google-analytics.com
+1567274374341 - 121.138.48.180:54149 - udp4 - www.apple.com
+1567274374341 - 121.138.48.180:63060 - udp4 - apple.com
+1567274374342 - 121.138.48.180:60068 - udp4 - www.icloud.com
+1567274448831 - 121.138.48.180:51988 - udp4 - configuration.apple.com
+1567274465007 - 121.138.48.180:51353 - udp4 - calendar.google.com
+1567274476767 - 121.138.48.180:55552 - udp4 - graph.facebook.com
+1567274477142 - 121.138.48.180:58379 - udp4 - wv.inner-active.mobi
+1567274477167 - 121.138.48.180:64874 - udp4 - cdn2.inner-active.mobi
+1567274477253 - 121.138.48.180:55607 - udp4 - z.moatads.com
+1567274477535 - 121.138.48.180:51982 - udp4 - bw.herewetest.com
+1567274484483 - 121.138.48.180:59543 - udp4 - google.com
+1567274503500 - 121.138.48.180:63848 - udp4 - mesu.apple.com
+1567274524045 - 121.138.48.180:51691 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567274525052 - 121.138.48.180:51691 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567275057736 - 121.138.48.180:50332 - udp4 - graph.facebook.com
+1567275058935 - 121.138.48.180:55675 - udp4 - www.google.com
+1567275060537 - 121.138.48.180:53691 - udp4 - time.google.com
+1567275060539 - 121.138.48.180:53691 - udp4 - time.google.com
+1567275062513 - 121.138.48.180:63953 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567275062515 - 121.138.48.180:63953 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567275062515 - 121.138.48.180:64081 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+1567275062555 - 121.138.48.180:59488 - udp4 - api-gateway.banksalad.com
+1567275062558 - 121.138.48.180:59488 - udp4 - api-gateway.banksalad.com
+[ ERROR ] - 2019.9.1.3.11.2 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.3.11.2 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567275063517 - 121.138.48.180:64081 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.3.11.3 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.3.11.3 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567275664082 - 121.138.48.180:61725 - udp4 - graph.facebook.com
+1567275664923 - 121.138.48.180:52255 - udp4 - settings.crashlytics.com
+1567275664946 - 121.138.48.180:57113 - udp4 - e.crashlytics.com
+1567275664977 - 121.138.48.180:53575 - udp4 - app-measurement.com
+1567275665006 - 121.138.48.180:57235 - udp4 - play.googleapis.com
+1567275665060 - 121.138.48.180:50511 - udp4 - p21-buy.itunes.apple.com
+1567275665103 - 121.138.48.180:56385 - udp4 - www.google.com
+1567275665181 - 121.138.48.180:52589 - udp4 - sdk.iad-01.braze.com
+1567275666180 - 121.138.48.180:60324 - udp4 - www.gstatic.com
+1567275666229 - 121.138.48.180:65169 - udp4 - time.google.com
+1567275666347 - 121.138.48.180:61044 - udp4 - app-auth.banksalad.com
+1567275666520 - 121.138.48.180:58504 - udp4 - sdk.iad-03.braze.com
+1567275667987 - 121.138.48.180:49744 - udp4 - iid.googleapis.com
+1567275668031 - 121.138.48.180:59869 - udp4 - check.banksalad.com
+1567275668214 - 121.138.48.180:60294 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567275668215 - 121.138.48.180:50877 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+1567275668247 - 121.138.48.180:50490 - udp4 - api-gateway.banksalad.com
+[ ERROR ] - 2019.9.1.3.21.8 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.3.21.8 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+1567275668852 - 121.138.48.180:57369 - udp4 - ultron.banksalad.com
+1567275669225 - 121.138.48.180:50877 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.3.21.9 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.3.21.9 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567276221027 - 121.138.48.180:62825 - udp4 - gsp64-ssl.ls.apple.com
+1567276237147 - 121.138.48.180:63952 - udp4 - safebrowsing.googleapis.com
+1567276397683 - 121.138.48.180:61446 - udp4 - cl2.apple.com
+1567276698045 - 121.138.48.180:60622 - udp4 - daypass.api-glb-sel.smoot.apple.com
+1567277044862 - 121.138.48.180:57419 - udp4 - iphone-ld.apple.com
+1567277079020 - 121.138.48.180:62912 - udp4 - api.econovation.co.kr
+1567277781586 - 121.138.48.180:61458 - udp4 - edge-mqtt.facebook.com
+1567277993294 - 121.138.48.180:54038 - udp4 - time-ios.apple.com
+1567277998935 - 121.138.48.180:57333 - udp4 - gateway.icloud.com
+1567278070630 - 121.138.48.180:61747 - udp4 - guzzoni.apple.com
+1567278087207 - 121.138.48.180:50380 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567278088212 - 121.138.48.180:50380 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567278230416 - 121.138.48.180:62295 - udp4 - apple.com
+1567279366306 - 121.138.48.180:50957 - udp4 - valid.origin-apple.com.akadns.net
+1567279367698 - 121.138.48.180:61640 - udp4 - ocsp.apple.com
+1567279369329 - 121.138.48.180:61562 - udp4 - iphonesubmissions.apple.com
+1567279385792 - 121.138.48.180:51686 - udp4 - time-ios.apple.com
+1567279878794 - 121.138.48.180:50652 - udp4 - gsp-sl01-ssl.ls.apple.com
+1567279883324 - 121.138.48.180:52478 - udp4 - graph.facebook.com
+1567279883324 - 121.138.48.180:52478 - udp4 - graph.facebook.com
+1567279884185 - 121.138.48.180:55196 - udp4 - settings.crashlytics.com
+1567279884301 - 121.138.48.180:61510 - udp4 - init.itunes.apple.com
+1567279884522 - 121.138.48.180:52183 - udp4 - p21-buy.itunes.apple.com
+1567279884522 - 121.138.48.180:64941 - udp4 - xp.apple.com
+1567279884523 - 121.138.48.180:52183 - udp4 - p21-buy.itunes.apple.com
+1567279886427 - 121.138.48.180:50391 - udp4 - time.google.com
+1567279886428 - 121.138.48.180:50391 - udp4 - time.google.com
+1567279886699 - 121.138.48.180:63576 - udp4 - iid.googleapis.com
+1567279888196 - 121.138.48.180:54090 - udp4 - cloudconfig.googleapis.com
+1567279888330 - 121.138.48.180:64706 - udp4 - play.googleapis.com
+1567279888411 - 121.138.48.180:50760 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567279888412 - 121.138.48.180:57782 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.4.31.28 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.4.31.28 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567279888502 - 121.138.48.180:62277 - udp4 - app-measurement.com
+1567279889413 - 121.138.48.180:57782 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.4.31.29 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.4.31.29 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567280085899 - 121.138.48.180:61712 - udp4 - configuration.apple.com
+1567280093289 - 121.138.48.180:61995 - udp4 - gspe35-kr-ssl.ls.apple.com
+1567280093290 - 121.138.48.180:57862 - udp4 - gsp36-sl01-ssl.ls.apple.com
+1567280096900 - 121.138.48.180:62638 - udp4 - gsp51-kr.ls.apple.com
+1567280548135 - 121.138.48.180:54872 - udp4 - graph.facebook.com
+1567280548952 - 121.138.48.180:56404 - udp4 - settings.crashlytics.com
+1567280548969 - 121.138.48.180:49740 - udp4 - e.crashlytics.com
+1567280549007 - 121.138.48.180:50315 - udp4 - app-measurement.com
+1567280549036 - 121.138.48.180:49405 - udp4 - play.googleapis.com
+1567280549091 - 121.138.48.180:59678 - udp4 - p21-buy.itunes.apple.com
+1567280549451 - 121.138.48.180:60635 - udp4 - www.google.com
+1567280549719 - 121.138.48.180:59110 - udp4 - sdk.iad-01.braze.com
+1567280550889 - 121.138.48.180:55232 - udp4 - www.gstatic.com
+1567280551035 - 121.138.48.180:59513 - udp4 - time.google.com
+1567280551159 - 121.138.48.180:51739 - udp4 - app-auth.banksalad.com
+1567280551322 - 121.138.48.180:59858 - udp4 - sdk.iad-03.braze.com
+1567280552839 - 121.138.48.180:64646 - udp4 - check.banksalad.com
+1567280552992 - 121.138.48.180:49704 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567280552994 - 121.138.48.180:55910 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.4.42.32 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.4.42.32 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567280553010 - 121.138.48.180:54375 - udp4 - api-gateway.banksalad.com
+1567280553265 - 121.138.48.180:55633 - udp4 - ultron.banksalad.com
+1567280554000 - 121.138.48.180:55910 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.4.42.34 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.4.42.34 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567280889082 - 121.138.48.180:52974 - udp4 - se2.itunes.apple.com
+1567281042728 - 121.138.48.180:50555 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.4.50.42 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.4.50.42 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567281043738 - 121.138.48.180:50555 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.4.50.43 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.4.50.43 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+1567281388270 - 121.138.48.180:63207 - udp4 - gsp64-ssl.ls.apple.com
+1567281608952 - 121.138.48.180:60554 - udp4 - imap.gmail.com
+1567281623759 - 121.138.48.180:56119 - udp4 - mesu.apple.com
+1567281671349 - 121.138.48.180:59499 - udp4 - gsa.apple.com
+1567281683463 - 121.138.48.180:61000 - udp4 - safebrowsing.googleapis.com
+1567282369492 - 121.138.48.180:63088 - udp4 - calendar.google.com
+1567282369500 - 121.138.48.180:52385 - udp4 - p56-contacts.icloud.com
+1567282369508 - 121.138.48.180:61066 - udp4 - p56-caldav.icloud.com
+1567282385816 - 121.138.48.180:64456 - udp4 - google.com
+1567282408023 - 121.138.48.180:60598 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567282409035 - 121.138.48.180:60598 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567283363238 - 121.138.48.180:51213 - udp4 - gateway.icloud.com
+1567283363345 - 121.138.48.180:58521 - udp4 - valid.apple.com
+1567283367857 - 121.138.48.180:52434 - udp4 - ap-sin-00001.s3.dualstack.ap-southeast-1.amazonaws.com
+1567283369265 - 121.138.48.180:54303 - udp4 - metrics.icloud.com
+1567284217884 - 121.138.48.180:57895 - udp4 - time-ios.apple.com
+1567284218827 - 121.138.48.180:62202 - udp4 - graph.facebook.com
+1567284218838 - 121.138.48.180:63474 - udp4 - edge-mqtt.facebook.com
+1567284835427 - 121.138.48.180:51409 - udp4 - e.crashlytics.com
+1567284835562 - 121.138.48.180:49274 - udp4 - app-measurement.com
+1567284835583 - 121.138.48.180:51473 - udp4 - play.googleapis.com
+1567284835612 - 121.138.48.180:61670 - udp4 - init.itunes.apple.com
+1567284835820 - 121.138.48.180:57205 - udp4 - xp.apple.com
+1567284835820 - 121.138.48.180:51988 - udp4 - p21-buy.itunes.apple.com
+1567284836148 - 121.138.48.180:50423 - udp4 - www.google.com
+1567284836427 - 121.138.48.180:52123 - udp4 - settings.crashlytics.com
+1567284836427 - 121.138.48.180:58758 - udp4 - sdk.iad-01.braze.com
+1567284837620 - 121.138.48.180:50975 - udp4 - www.gstatic.com
+1567284837673 - 121.138.48.180:53911 - udp4 - time.google.com
+1567284837958 - 121.138.48.180:60753 - udp4 - sdk.iad-03.braze.com
+1567284838212 - 121.138.48.180:55649 - udp4 - iid.googleapis.com
+1567284838234 - 121.138.48.180:50705 - udp4 - cloudconfig.googleapis.com
+1567284838459 - 121.138.48.180:49252 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567284838460 - 121.138.48.180:59137 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.5.53.58 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.5.53.58 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+1567284838780 - 121.138.48.180:51405 - udp4 - app-auth.banksalad.com
+1567284839472 - 121.138.48.180:59137 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.5.53.59 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.5.53.59 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+1567284840462 - 121.138.48.180:51634 - udp4 - check.banksalad.com
+1567284840598 - 121.138.48.180:55405 - udp4 - api-gateway.banksalad.com
+1567284840958 - 121.138.48.180:55404 - udp4 - ultron.banksalad.com
+1567285254334 - 121.138.48.180:52114 - udp4 - configuration.apple.com
+1567285286839 - 121.138.48.180:51300 - udp4 - safebrowsing.googleapis.com
+1567285288887 - 121.138.48.180:55655 - udp4 - imap.gmail.com
+1567285741537 - 121.138.48.180:62212 - udp4 - as.atlassian.com
+1567285741922 - 121.138.48.180:55104 - udp4 - trello.com
+1567285742098 - 121.138.48.180:51434 - udp4 - c.trello.com
+1567285745001 - 121.138.48.180:58357 - udp4 - p56-keyvalueservice.icloud.com
+1567286528861 - 121.138.48.180:65211 - udp4 - gspe35-kr-ssl.ls.apple.com
+1567286771859 - 121.138.48.180:63715 - udp4 - calendar.google.com
+1567286778247 - 121.138.48.180:53164 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.6.26.18 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.6.26.18 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567286779249 - 121.138.48.180:53164 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.6.26.19 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.6.26.19 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567287321849 - 121.138.48.180:64786 - udp4 - valid.apple.com
+1567287548385 - 121.138.48.180:51645 - udp4 - inbox.google.com
+1567287548386 - 121.138.48.180:55878 - udp4 - oauthaccountmanager.googleapis.com
+1567287548387 - 121.138.48.180:54651 - udp4 - www.googleadservices.com
+1567287548743 - 121.138.48.180:62096 - udp4 - oauthaccountmanager.googleapis.com
+1567287553966 - 121.138.48.180:52582 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.6.39.14 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.6.39.14 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+1567287554970 - 121.138.48.180:52582 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.6.39.15 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.6.39.15 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567288171867 - 121.138.48.180:61501 - udp4 - edge-mqtt.facebook.com
+1567288174009 - 121.138.48.180:49357 - udp4 - graph.facebook.com
+1567288177552 - 121.138.48.180:63510 - udp4 - gateway.icloud.com
+1567288177927 - 121.138.48.180:61959 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.6.49.37 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.6.49.37 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567288178928 - 121.138.48.180:61959 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.6.49.38 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.6.49.38 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567288242695 - 121.138.48.180:59620 - udp4 - m.welcomebank.co.kr
+1567288242701 - 121.138.48.180:63613 - udp4 - version.kwic.co.kr
+1567288242854 - 121.138.48.180:52479 - udp4 - mfcc.co.kr
+1567288242965 - 121.138.48.180:64498 - udp4 - ssl.google-analytics.com
+1567288243154 - 121.138.48.180:53556 - udp4 - api2.branch.io
+1567288246901 - 121.138.48.180:54205 - udp4 - nfs.welcomebank.co.kr
+1567288719605 - 121.138.48.180:57992 - udp4 - settings.crashlytics.com
+1567288719624 - 121.138.48.180:60065 - udp4 - e.crashlytics.com
+1567288719661 - 121.138.48.180:59968 - udp4 - app-measurement.com
+1567288719687 - 121.138.48.180:50736 - udp4 - play.googleapis.com
+1567288719703 - 121.138.48.180:61338 - udp4 - init.itunes.apple.com
+1567288719837 - 121.138.48.180:50893 - udp4 - www.google.com
+1567288719846 - 121.138.48.180:55412 - udp4 - sdk.iad-01.braze.com
+1567288720204 - 121.138.48.180:59560 - udp4 - p21-buy.itunes.apple.com
+1567288720205 - 121.138.48.180:58595 - udp4 - xp.apple.com
+1567288720749 - 121.138.48.180:58706 - udp4 - www.gstatic.com
+1567288720799 - 121.138.48.180:52620 - udp4 - time.google.com
+1567288720913 - 121.138.48.180:59410 - udp4 - app-auth.banksalad.com
+1567288721035 - 121.138.48.180:56710 - udp4 - sdk.iad-03.braze.com
+1567288722326 - 121.138.48.180:60866 - udp4 - iid.googleapis.com
+1567288722331 - 121.138.48.180:60527 - udp4 - cloudconfig.googleapis.com
+1567288722460 - 121.138.48.180:51793 - udp4 - check.banksalad.com
+1567288722534 - 121.138.48.180:56262 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567288722536 - 121.138.48.180:52838 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.6.58.42 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.6.58.42 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567288722682 - 121.138.48.180:52436 - udp4 - api-gateway.banksalad.com
+1567288723086 - 121.138.48.180:64621 - udp4 - ultron.banksalad.com
+1567288723540 - 121.138.48.180:52838 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.6.58.43 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.6.58.43 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567288888760 - 121.138.48.180:61404 - udp4 - metrics.icloud.com
+1567288898358 - 121.138.48.180:59881 - udp4 - p52-mailws.icloud.com
+1567289199830 - 121.138.48.180:54043 - udp4 - time-ios.apple.com
+1567289203142 - 121.138.48.180:54308 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.7.6.43 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.7.6.43 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567289204155 - 121.138.48.180:54308 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.7.6.44 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.7.6.44 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567289870521 - 121.138.48.180:56315 - udp4 - imap.gmail.com
+1567290692832 - 121.138.48.180:49924 - udp4 - safebrowsing.googleapis.com
+1567291210839 - 121.138.48.180:64830 - udp4 - calendar.google.com
+1567291211257 - 121.138.48.180:61410 - udp4 - oauth2.googleapis.com
+1567291212189 - 121.138.48.180:59330 - udp4 - guzzoni.apple.com
+1567291212245 - 121.138.48.180:52896 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567291212260 - 121.138.48.180:64590 - udp4 - p52-imap.mail.me.com
+1567291212277 - 121.138.48.180:60373 - udp4 - google.com
+1567291212287 - 121.138.48.180:50025 - udp4 - p56-contacts.icloud.com
+1567291212299 - 121.138.48.180:50621 - udp4 - p56-caldav.icloud.com
+1567291213248 - 121.138.48.180:52896 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567291214937 - 121.138.48.180:55005 - udp4 - init-p01st.push.apple.com
+1567291214980 - 121.138.48.180:57945 - udp4 - 26-courier.push.apple.com
+1567291237842 - 121.138.48.180:56558 - udp4 - mesu.g.aaplimg.com
+1567291244605 - 121.138.48.180:55033 - udp4 - valid.apple.com
+1567291879196 - 121.138.48.180:50789 - udp4 - p56-keyvalueservice.icloud.com
+1567291879204 - 121.138.48.180:60523 - udp4 - keyvalueservice.icloud.com
+1567292430680 - 121.138.48.180:59184 - udp4 - graph.facebook.com
+1567292431345 - 121.138.48.180:59734 - udp4 - ipv4only.arpa
+1567292431472 - 121.138.48.180:57284 - udp4 - nelo2-col.linecorp.com
+1567292432236 - 121.138.48.180:64396 - udp4 - gwk.line.naver.jp
+1567292433229 - 121.138.48.180:50968 - udp4 - ssl.google-analytics.com
+1567292435622 - 121.138.48.180:58701 - udp4 - line.me
+1567292437656 - 121.138.48.180:56323 - udp4 - obs.line-scdn.net
+1567292443478 - 121.138.48.180:50293 - udp4 - scdn.line-apps.com
+1567292465151 - 121.138.48.180:64204 - udp4 - gateway.icloud.com
+1567292515136 - 121.138.48.180:54831 - udp4 - settings.crashlytics.com
+1567292515204 - 121.138.48.180:59850 - udp4 - app-measurement.com
+1567292516311 - 121.138.48.180:53063 - udp4 - time.google.com
+1567292517994 - 121.138.48.180:62677 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567292517998 - 121.138.48.180:51296 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.8.1.58 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.8.1.58 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+1567292518998 - 121.138.48.180:51296 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.8.1.59 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.8.1.59 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567293004668 - 121.138.48.180:52489 - udp4 - app-measurement.com
+1567293005675 - 121.138.48.180:60751 - udp4 - time.google.com
+1567293007130 - 121.138.48.180:58446 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567293007132 - 121.138.48.180:52179 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.8.10.7 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.8.10.7 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567293007688 - 121.138.48.180:65031 - udp4 - slack.com
+1567293008136 - 121.138.48.180:52179 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.8.10.8 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.8.10.8 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567293009336 - 121.138.48.180:56949 - udp4 - notify.bugsnag.com
+1567293009376 - 121.138.48.180:50563 - udp4 - edgeapi.slack.com
+1567293476993 - 121.138.48.180:60991 - udp4 - edge-mqtt.facebook.com
+1567293478557 - 121.138.48.180:62917 - udp4 - app-measurement.com
+1567293478574 - 121.138.48.180:64489 - udp4 - play.googleapis.com
+1567293478635 - 121.138.48.180:59491 - udp4 - p21-buy.itunes.apple.com
+1567293478672 - 121.138.48.180:62859 - udp4 - www.google.com
+1567293478837 - 121.138.48.180:52329 - udp4 - sdk.iad-01.braze.com
+1567293479607 - 121.138.48.180:51316 - udp4 - www.gstatic.com
+1567293479807 - 121.138.48.180:56036 - udp4 - app-auth.banksalad.com
+1567293479945 - 121.138.48.180:57747 - udp4 - sdk.iad-03.braze.com
+1567293480681 - 121.138.48.180:58823 - udp4 - time.google.com
+1567293481177 - 121.138.48.180:55691 - udp4 - cloudconfig.googleapis.com
+1567293481182 - 121.138.48.180:60173 - udp4 - iid.googleapis.com
+1567293481228 - 121.138.48.180:65319 - udp4 - check.banksalad.com
+1567293481430 - 121.138.48.180:52256 - udp4 - api-gateway.banksalad.com
+1567293481787 - 121.138.48.180:62900 - udp4 - ultron.banksalad.com
+1567293482393 - 121.138.48.180:50461 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+1567293482393 - 121.138.48.180:55040 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+[ ERROR ] - 2019.9.1.8.18.2 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.8.18.2 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567293964824 - 121.138.48.180:52893 - udp4 - time-ios.apple.com
+1567293966447 - 121.138.48.180:59992 - udp4 - e.crashlytics.com
+1567293967520 - 121.138.48.180:60725 - udp4 - as.atlassian.com
+1567293967799 - 121.138.48.180:63189 - udp4 - trello.com
+1567293967933 - 121.138.48.180:54840 - udp4 - c.trello.com
+1567293969226 - 121.138.48.180:50925 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.8.26.9 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.8.26.9 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567293970240 - 121.138.48.180:50925 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.8.26.10 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.8.26.10 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567294367821 - 121.138.48.180:60469 - udp4 - safebrowsing.googleapis.com
+1567294393586 - 121.138.48.180:52346 - udp4 - bag.itunes.apple.com
+1567294394071 - 121.138.48.180:63886 - udp4 - su.itunes.apple.com
+1567294395112 - 121.138.48.180:65328 - udp4 - init.itunes.apple.com
+1567294395851 - 121.138.48.180:62960 - udp4 - xp.apple.com
+1567294397728 - 121.138.48.180:50975 - udp4 - is3-ssl.mzstatic.com
+1567294397971 - 121.138.48.180:61184 - udp4 - iosapps.itunes.apple.com
+1567294398171 - 121.138.48.180:59239 - udp4 - is1-ssl.mzstatic.com
+1567294974881 - 121.138.48.180:63798 - udp4 - calendar.google.com
+1567294979664 - 121.138.48.180:63463 - udp4 - valid.apple.com
+1567294984959 - 121.138.48.180:59941 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.8.43.5 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.8.43.5 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567294985966 - 121.138.48.180:59941 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.8.43.5 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.8.43.5 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567295335905 - 121.138.48.180:53104 - udp4 - google.com
+1567295462322 - 121.138.48.180:63736 - udp4 - guzzoni.apple.com
+1567295462334 - 121.138.48.180:56972 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567295463337 - 121.138.48.180:56972 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567296146899 - 121.138.48.180:59607 - udp4 - mesu.g.aaplimg.com
+1567296181305 - 121.138.48.180:57434 - udp4 - imap.gmail.com
+1567296557748 - 121.138.48.180:50791 - udp4 - settings.crashlytics.com
+1567296558086 - 121.138.48.180:60947 - udp4 - version.kwic.co.kr
+1567296558086 - 121.138.48.180:62331 - udp4 - m.welcomebank.co.kr
+1567296558145 - 121.138.48.180:57392 - udp4 - ocsp.digicert.com
+1567296558151 - 121.138.48.180:61161 - udp4 - ssl.google-analytics.com
+1567296558221 - 121.138.48.180:54106 - udp4 - graph.facebook.com
+1567296558292 - 121.138.48.180:65254 - udp4 - api2.branch.io
+1567296561697 - 121.138.48.180:53646 - udp4 - nfs.welcomebank.co.kr
+1567296562818 - 121.138.48.180:53069 - udp4 - cdn.branch.io
+1567296563053 - 121.138.48.180:63900 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+1567296563056 - 121.138.48.180:54871 - udp4 - nf.welcomebank.co.kr
+[ ERROR ] - 2019.9.1.9.9.23 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.9.23 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567296563115 - 121.138.48.180:56337 - udp4 - ocsp.sectigo.com
+1567296564061 - 121.138.48.180:63900 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.9.24 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.9.24 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567296788968 - 121.138.48.180:56760 - udp4 - inbox.google.com
+1567296789171 - 121.138.48.180:57374 - udp4 - oauthaccountmanager.googleapis.com
+1567296789277 - 121.138.48.180:56142 - udp4 - www.googleadservices.com
+1567296794328 - 121.138.48.180:53737 - udp4 - slack.com
+1567296794654 - 121.138.48.180:56676 - udp4 - gateway.icloud.com
+1567296794905 - 121.138.48.180:58273 - udp4 - notify.bugsnag.com
+1567296795732 - 121.138.48.180:63742 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.13.15 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.13.15 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+1567296796221 - 121.138.48.180:50648 - udp4 - edgeapi.slack.com
+1567296796658 - 121.138.48.180:63742 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.13.16 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.13.16 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567297126070 - 121.138.48.180:55110 - udp4 - p56-keyvalueservice.icloud.com
+1567297489672 - 121.138.48.180:58303 - udp4 - app-measurement.com
+1567297489690 - 121.138.48.180:63041 - udp4 - play.googleapis.com
+1567297489830 - 121.138.48.180:51927 - udp4 - p21-buy.itunes.apple.com
+1567297489830 - 121.138.48.180:53762 - udp4 - www.google.com
+1567297489838 - 121.138.48.180:53286 - udp4 - sdk.iad-01.braze.com
+1567297490695 - 121.138.48.180:63041 - udp4 - play.googleapis.com
+1567297490785 - 121.138.48.180:63321 - udp4 - www.gstatic.com
+1567297490834 - 121.138.48.180:61645 - udp4 - time.google.com
+1567297490904 - 121.138.48.180:57792 - udp4 - app-auth.banksalad.com
+1567297491009 - 121.138.48.180:62902 - udp4 - sdk.iad-03.braze.com
+1567297491285 - 121.138.48.180:54079 - udp4 - cloudconfig.googleapis.com
+1567297492437 - 121.138.48.180:50481 - udp4 - iid.googleapis.com
+1567297492532 - 121.138.48.180:61015 - udp4 - check.banksalad.com
+1567297492577 - 121.138.48.180:54976 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567297492580 - 121.138.48.180:55199 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.24.52 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.24.52 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567297492709 - 121.138.48.180:62028 - udp4 - api-gateway.banksalad.com
+1567297492993 - 121.138.48.180:60363 - udp4 - ultron.banksalad.com
+1567297493585 - 121.138.48.180:55199 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.24.53 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.24.53 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567297948340 - 121.138.48.180:52984 - udp4 - e.crashlytics.com
+1567297951105 - 121.138.48.180:61275 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.32.31 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.32.31 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567297952109 - 121.138.48.180:61275 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.32.32 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.32.32 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567298518917 - 121.138.48.180:57156 - udp4 - edge-mqtt.facebook.com
+1567298523174 - 121.138.48.180:55116 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.42.3 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.42.3 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567298524179 - 121.138.48.180:55116 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.42.4 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.42.4 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567299113882 - 121.138.48.180:54710 - udp4 - www.googleapis.com
+1567299113913 - 121.138.48.180:54588 - udp4 - ci6.googleusercontent.com
+1567299114518 - 121.138.48.180:62442 - udp4 - people-pa.googleapis.com
+1567299116692 - 121.138.48.180:60294 - udp4 - ci4.googleusercontent.com
+1567299118280 - 121.138.48.180:55748 - udp4 - mesu.apple.com
+1567299134181 - 121.138.48.180:57656 - udp4 - init.itunes.apple.com
+1567299134391 - 121.138.48.180:63797 - udp4 - xp.apple.com
+1567299137193 - 121.138.48.180:59154 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.52.17 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.52.17 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567299138198 - 121.138.48.180:59154 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.9.52.18 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.9.52.18 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:808::200a","ttl":3600,"class":"IN"}
+1567299763513 - 121.138.48.180:53235 - udp4 - safebrowsing.googleapis.com
+1567299764382 - 121.138.48.180:57052 - udp4 - freesam.kt.com
+1567299764393 - 121.138.48.180:53037 - udp4 - freesam.kt.com
+1567299765202 - 121.138.48.180:53244 - udp4 - app.membership.kt.com
+1567299765398 - 121.138.48.180:53037 - udp4 - freesam.kt.com
+1567299765894 - 121.138.48.180:50898 - udp4 - anyid.api.kt.com
+1567300169872 - 121.138.48.180:49301 - udp4 - time-ios.g.aaplimg.com
+1567300652971 - 121.138.48.180:64814 - udp4 - graph.facebook.com
+1567300654388 - 121.138.48.180:52396 - udp4 - settings.crashlytics.com
+1567300657279 - 121.138.48.180:49437 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.10.17.37 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.10.17.37 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567300658283 - 121.138.48.180:49437 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.10.17.38 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.10.17.38 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+1567301203015 - 121.138.48.180:57287 - udp4 - p56-keyvalueservice.icloud.com
+1567301264076 - 121.138.48.180:53040 - udp4 - oauthaccountmanager.googleapis.com
+1567301264094 - 121.138.48.180:60306 - udp4 - www.googleadservices.com
+1567301264401 - 121.138.48.180:51181 - udp4 - edgeapi.slack.com
+1567301264415 - 121.138.48.180:51384 - udp4 - slack.com
+1567301264427 - 121.138.48.180:51753 - udp4 - inbox.google.com
+1567301264769 - 121.138.48.180:63587 - udp4 - iphonesubmissions.apple.com
+1567301264804 - 121.138.48.180:56864 - udp4 - api.weather.com
+1567301264912 - 121.138.48.180:50443 - udp4 - configuration.apple.com.akadns.net
+1567301265039 - 121.138.48.180:57359 - udp4 - gsp-sl01-ssl.ls.apple.com
+1567301265287 - 121.138.48.180:54457 - udp4 - gsp64-ssl.ls.apple.com
+1567301267494 - 121.138.48.180:49443 - udp4 - www.google.com
+1567301267580 - 121.138.48.180:53694 - udp4 - ssl.gstatic.com
+1567301269406 - 121.138.48.180:50722 - udp4 - app-measurement.com
+1567301269420 - 121.138.48.180:50729 - udp4 - play.googleapis.com
+1567301269459 - 121.138.48.180:57619 - udp4 - p21-buy.itunes.apple.com
+1567301269612 - 121.138.48.180:52593 - udp4 - sdk.iad-01.braze.com
+1567301270624 - 121.138.48.180:63584 - udp4 - www.gstatic.com
+1567301270665 - 121.138.48.180:54295 - udp4 - time.google.com
+1567301270792 - 121.138.48.180:58210 - udp4 - app-auth.banksalad.com
+1567301270995 - 121.138.48.180:52419 - udp4 - sdk.iad-03.braze.com
+1567301271214 - 121.138.48.180:50307 - udp4 - lh3.googleusercontent.com
+1567301271726 - 121.138.48.180:56007 - udp4 - docs.google.com
+1567301272714 - 121.138.48.180:53503 - udp4 - cloudconfig.googleapis.com
+1567301272732 - 121.138.48.180:49483 - udp4 - iid.googleapis.com
+1567301272798 - 121.138.48.180:58587 - udp4 - check.banksalad.com
+1567301272893 - 121.138.48.180:49406 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567301272900 - 121.138.48.180:64781 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.10.27.52 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.10.27.52 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+1567301273052 - 121.138.48.180:54213 - udp4 - api-gateway.banksalad.com
+1567301273427 - 121.138.48.180:57262 - udp4 - ultron.banksalad.com
+1567301273905 - 121.138.48.180:64781 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.10.27.53 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.10.27.53 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567301839796 - 121.138.48.180:52550 - udp4 - cl5.apple.com
+1567301840862 - 121.138.48.180:50254 - udp4 - lithium.facebook.com
+1567301841680 - 121.138.48.180:63039 - udp4 - scontent-icn1-1.xx.fbcdn.net
+1567301844130 - 121.138.48.180:62546 - udp4 - external-icn1-1.xx.fbcdn.net
+1567301844178 - 121.138.48.180:49683 - udp4 - video-icn1-1.xx.fbcdn.net
+1567301844784 - 121.138.48.180:60624 - udp4 - init-p01st.push.apple.com
+1567301844845 - 121.138.48.180:65254 - udp4 - 47-courier.push.apple.com
+1567301845798 - 121.138.48.180:61000 - udp4 - www.apple.com
+1567301845799 - 121.138.48.180:56973 - udp4 - www.icloud.com
+1567301845807 - 121.138.48.180:57746 - udp4 - apple.com
+1567301846828 - 121.138.48.180:61816 - udp4 - ssl.google-analytics.com
+1567302021607 - 121.138.48.180:52461 - udp4 - 48-courier.push.apple.com
+1567302032726 - 121.138.48.180:61734 - udp4 - www.facebook.com
+1567302173679 - 121.138.48.180:54675 - udp4 - notify.bugsnag.com
+1567302178212 - 121.138.48.180:53826 - udp4 - e.crashlytics.com
+1567302179590 - 121.138.48.180:64355 - udp4 - as.atlassian.com
+1567302179783 - 121.138.48.180:57643 - udp4 - trello.com
+1567302179884 - 121.138.48.180:51101 - udp4 - c.trello.com
+1567302180804 - 121.138.48.180:58791 - udp4 - google.com
+1567302184187 - 121.138.48.180:50633 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.10.43.4 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.10.43.4 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+1567302185188 - 121.138.48.180:50633 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.10.43.5 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.10.43.5 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+1567302484992 - 121.138.48.180:50897 - udp4 - edge-mqtt.facebook.com
+1567302486876 - 121.138.48.180:50515 - udp4 - 3-courier.push.apple.com
+1567302499707 - 121.138.48.180:62119 - udp4 - init.gc.apple.com
+1567302499725 - 121.138.48.180:54178 - udp4 - supercell.helpshift.com
+1567302499776 - 121.138.48.180:58703 - udp4 - static.gc.apple.com
+1567302499894 - 121.138.48.180:54246 - udp4 - profile.gc.apple.com
+1567302500380 - 121.138.48.180:63248 - udp4 - game.clashofclans.com
+1567302500608 - 121.138.48.180:50404 - udp4 - inbox.clashofclans.com
+1567302500943 - 121.138.48.180:59527 - udp4 - sp.itunes.apple.com
+1567302501209 - 121.138.48.180:57987 - udp4 - www.youtube.com
+1567302501262 - 121.138.48.180:55787 - udp4 - stats.gc.apple.com
+1567302501307 - 121.138.48.180:55038 - udp4 - itunes.apple.com
+1567302503905 - 121.138.48.180:64562 - udp4 - event-assets.clashofclans.com
+1567302640565 - 121.138.48.180:57495 - udp4 - gwk.line.naver.jp
+1567302640582 - 121.138.48.180:51491 - udp4 - scdn.line-apps.com
+1567302640591 - 121.138.48.180:57751 - udp4 - nelo2-col.linecorp.com
+1567302640809 - 121.138.48.180:54634 - udp4 - line.me
+1567302641107 - 121.138.48.180:58937 - udp4 - ipv4only.arpa
+1567302641121 - 121.138.48.180:57460 - udp4 - d.line-scdn.net
+1567302641990 - 121.138.48.180:61539 - udp4 - lan.line.me
+1567302642895 - 121.138.48.180:63845 - udp4 - profile.line-scdn.net
+1567302643233 - 121.138.48.180:64265 - udp4 - obs.line-scdn.net
+1567302645109 - 121.138.48.180:61390 - udp4 - a.line.me
+1567302650541 - 121.138.48.180:51329 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.10.50.50 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.10.50.50 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567302651554 - 121.138.48.180:51329 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.10.50.51 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.10.50.51 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567302721034 - 121.138.48.180:64149 - udp4 - 1681.engine.mobileapptracking.com
+1567302740873 - 146.88.240.4:56144 - udp4 - www.wikipedia.org
+1567302946877 - 121.138.48.180:50438 - udp4 - gateway.fe.apple-dns.net
+1567302947207 - 121.138.48.180:58276 - udp4 - gsa.apple.com
+1567302948085 - 121.138.48.180:50709 - udp4 - gsas.apple.com
+1567303115623 - 121.138.48.180:60841 - udp4 - inbox-production.esports.clashroyale.com
+1567303115687 - 121.138.48.180:55587 - udp4 - inbox.clashroyale.com
+1567303146011 - 121.138.48.180:59825 - udp4 - chat.anna.sh
+1567303146012 - 121.138.48.180:58276 - udp4 - router.conbus.net
+1567303146241 - 121.138.48.180:56426 - udp4 - device-provisioning.googleapis.com
+1567303146450 - 121.138.48.180:56309 - udp4 - bc.ad.daum.net
+1567303146454 - 121.138.48.180:64224 - udp4 - app.adjust.com
+1567303146455 - 121.138.48.180:57738 - udp4 - api.anna.sh
+1567303146734 - 121.138.48.180:55765 - udp4 - bag.itunes.apple.com
+1567303147318 - 121.138.48.180:55165 - udp4 - iadsdk.apple.com
+1567303147349 - 121.138.48.180:65179 - udp4 - cf.iadsdk.apple.com
+1567303147398 - 121.138.48.180:59163 - udp4 - googleads.g.doubleclick.net
+1567303148229 - 121.138.48.180:53311 - udp4 - partiality.itunes.apple.com
+1567303149147 - 121.138.48.180:53593 - udp4 - config.unityads.unity3d.com
+1567303149233 - 121.138.48.180:53311 - udp4 - partiality.itunes.apple.com
+1567303149355 - 121.138.48.180:53843 - udp4 - cache01-user-generated-thumbnail-ko.anna.sh
+1567303149371 - 121.138.48.180:60930 - udp4 - cognito-identity.ap-northeast-2.amazonaws.com
+1567303149529 - 121.138.48.180:50976 - udp4 - a1g1qxcz0e6ofc-ats.iot.ap-northeast-2.amazonaws.com
+1567303149541 - 121.138.48.180:53274 - udp4 - cache01-user-generated-ko.anna.sh
+1567303150976 - 121.138.48.180:57217 - udp4 - publisher-config.unityads.unity3d.com
+1567303151402 - 121.138.48.180:55370 - udp4 - auction.unityads.unity3d.com
+1567303153809 - 121.138.48.180:60145 - udp4 - cdn-creatives-akamai-prd.unityads.unity3d.com
+1567303154280 - 121.138.48.180:52102 - udp4 - api.smoot.apple.com
+1567303160149 - 121.138.48.180:49493 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.10.59.20 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.10.59.20 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567303160503 - 121.138.48.180:50784 - udp4 - smp-device-content.apple.com
+1567303161158 - 121.138.48.180:49493 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.10.59.21 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.10.59.21 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567303308143 - 121.138.48.180:61644 - udp4 - 36-courier.push.apple.com
+1567303395574 - 146.88.240.25:38839 - udp4 - www.wikipedia.org
+1567303534050 - 121.138.48.180:51810 - udp4 - 11-courier.push.apple.com
+1567303583359 - 121.138.48.180:58640 - udp4 - mtalk.google.com
+1567303586000 - 121.138.48.180:53650 - udp4 - api.tantan-sachun.neptunegamez.com
+1567303586211 - 121.138.48.180:63795 - udp4 - api.kakao.com
+1567303586296 - 121.138.48.180:61640 - udp4 - auth.kakao.com
+1567303586557 - 121.138.48.180:59053 - udp4 - gameapi.kakao.com
+1567303586559 - 121.138.48.180:52300 - udp4 - api-log-analytics.cloud.toast.com
+1567303587468 - 121.138.48.180:62509 - udp4 - api-campaign-analytics.cloud.toast.com
+1567303590496 - 121.138.48.180:62649 - udp4 - dwn.neptunez.idunbiz.com
+1567303601687 - 121.138.48.180:53742 - udp4 - gspe35-kr-ssl.ls.apple.com
+1567303706448 - 121.138.48.180:51266 - udp4 - api-webrp-analytics.cloud.toast.com
+1567303802373 - 121.138.48.180:59127 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.11.10.2 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.11.10.2 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567303803378 - 121.138.48.180:59127 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.11.10.3 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.11.10.3 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567304333972 - 121.138.48.180:52172 - udp4 - time-ios.apple.com
+1567304334538 - 121.138.48.180:63304 - udp4 - graph.facebook.com
+1567304338498 - 121.138.48.180:51934 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.11.18.58 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.11.18.58 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567304339477 - 121.138.48.180:51934 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.11.18.59 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.11.18.59 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567304591663 - 121.138.48.180:61091 - udp4 - www.paypalobjects.com
+1567304592410 - 121.138.48.180:59738 - udp4 - tvm.moovitapp.com
+1567304592497 - 121.138.48.180:63025 - udp4 - kinesis.eu-west-1.amazonaws.com
+1567304592557 - 121.138.48.180:60228 - udp4 - app4cdn.moovitapp.com
+1567304592558 - 121.138.48.180:62629 - udp4 - app4.moovitapp.com
+1567304594515 - 121.138.48.180:62860 - udp4 - api.usebutton.com
+1567304594735 - 121.138.48.180:54163 - udp4 - static.moovitapp.com
+1567304595703 - 121.138.48.180:64407 - udp4 - d6nvmpoelyge0.cloudfront.net
+1567304788277 - 121.138.48.180:60660 - udp4 - 20.117.227.43.in-addr.arpa
+1567304789285 - 121.138.48.180:60660 - udp4 - 20.117.227.43.in-addr.arpa
+1567304792693 - 121.138.48.180:59415 - udp4 - 22.117.227.43.in-addr.arpa
+1567304793705 - 121.138.48.180:59415 - udp4 - 22.117.227.43.in-addr.arpa
+1567304901820 - 121.138.48.180:64653 - udp4 - settings.crashlytics.com
+1567304901821 - 121.138.48.180:64653 - udp4 - settings.crashlytics.com
+1567304903740 - 121.138.48.180:53521 - udp4 - time.google.com
+1567304905387 - 121.138.48.180:53919 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.11.28.25 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.11.28.25 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+1567304906397 - 121.138.48.180:53919 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.11.28.26 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.11.28.26 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567304977315 - 121.138.48.180:59107 - udp4 - api.uca.cloud.unity3d.com
+1567305043411 - 121.138.48.180:55378 - udp4 - edgeapi.slack.com
+1567305043411 - 121.138.48.180:56223 - udp4 - slack.com
+1567306010534 - 121.138.48.180:57493 - udp4 - gsp64-ssl.ls.apple.com
+1567306011364 - 121.138.48.180:59554 - udp4 - graph.facebook.com
+1567306014927 - 121.138.48.180:60267 - udp4 - slack.com
+1567306015136 - 121.138.48.180:54360 - udp4 - settings.crashlytics.com
+1567306015160 - 121.138.48.180:60679 - udp4 - e.crashlytics.com
+1567306015208 - 121.138.48.180:62059 - udp4 - app-measurement.com
+1567306015246 - 121.138.48.180:63406 - udp4 - play.googleapis.com
+1567306015723 - 121.138.48.180:62080 - udp4 - p21-buy.itunes.apple.com
+1567306015885 - 121.138.48.180:52879 - udp4 - www.google.com
+1567306015908 - 121.138.48.180:60680 - udp4 - notify.bugsnag.com
+1567306016079 - 121.138.48.180:56097 - udp4 - sdk.iad-01.braze.com
+1567306016360 - 121.138.48.180:60906 - udp4 - www.gstatic.com
+1567306017320 - 121.138.48.180:62530 - udp4 - edgeapi.slack.com
+1567306017967 - 121.138.48.180:55201 - udp4 - time.google.com
+1567306018134 - 121.138.48.180:58088 - udp4 - app-auth.banksalad.com
+1567306018300 - 121.138.48.180:51464 - udp4 - iid.googleapis.com
+1567306018364 - 121.138.48.180:52778 - udp4 - sdk.iad-03.braze.com
+1567306020031 - 121.138.48.180:61515 - udp4 - check.banksalad.com
+1567306020112 - 121.138.48.180:54745 - udp4 - cloudconfig.googleapis.com
+1567306020369 - 121.138.48.180:59337 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567306020371 - 121.138.48.180:50748 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+1567306020395 - 121.138.48.180:58517 - udp4 - api-gateway.banksalad.com
+[ ERROR ] - 2019.9.1.11.47.0 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.11.47.0 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567306020751 - 121.138.48.180:51439 - udp4 - ultron.banksalad.com
+1567306021383 - 121.138.48.180:50748 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.11.47.1 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.11.47.1 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567306297963 - 121.138.48.180:49182 - udp4 - p56-fmfmobile.icloud.com
+1567306297975 - 121.138.48.180:58933 - udp4 - p52-mailws.icloud.com
+1567306298416 - 121.138.48.180:55294 - udp4 - imap.gmail.com
+1567306300245 - 121.138.48.180:59227 - udp4 - init-p01md.apple.com
+1567306301068 - 121.138.48.180:56879 - udp4 - p56-keyvalueservice.icloud.com
+1567306306931 - 121.138.48.180:54821 - udp4 - p52-imap.mail.me.com
+1567306404760 - 121.138.48.180:59625 - udp4 - init.ess.apple.com
+1567306742208 - 121.138.48.180:50964 - udp4 - edge-mqtt.facebook.com
+1567306742298 - 121.138.48.180:58828 - udp4 - oauthaccountmanager.googleapis.com
+1567306742299 - 121.138.48.180:61751 - udp4 - www.googleadservices.com
+1567306742508 - 121.138.48.180:50738 - udp4 - www.googleadservices.com
+1567306742529 - 121.138.48.180:59587 - udp4 - oauthaccountmanager.googleapis.com
+1567306742803 - 121.138.48.180:63892 - udp4 - api.weather.com
+1567306742934 - 121.138.48.180:59991 - udp4 - inbox.google.com
+1567306743047 - 121.138.48.180:50360 - udp4 - configuration.apple.com
+1567306743102 - 121.138.48.180:62725 - udp4 - gsp-sl01-ssl.ls.apple.com
+1567306748485 - 121.138.48.180:60767 - udp4 - gateway.icloud.com
+1567306748905 - 121.138.48.180:61234 - udp4 - init.itunes.apple.com
+1567306749143 - 121.138.48.180:56570 - udp4 - xp.apple.com
+1567306753198 - 121.138.48.180:51695 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.11.59.13 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.11.59.13 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567306754204 - 121.138.48.180:51695 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.11.59.14 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.11.59.14 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567307629435 - 121.138.48.180:52059 - udp4 - mesu.apple.com
+1567307629694 - 121.138.48.180:64393 - udp4 - guzzoni.apple.com
+1567307632663 - 121.138.48.180:56960 - udp4 - metrics.icloud.com
+1567307633484 - 121.138.48.180:60355 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.12.13.53 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.12.13.53 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567307634489 - 121.138.48.180:60355 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.12.13.54 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.12.13.54 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567308514107 - 121.138.48.180:54536 - udp4 - c.trello.com
+1567308514107 - 121.138.48.180:62115 - udp4 - trello.com
+1567308514109 - 121.138.48.180:50106 - udp4 - google.com
+1567308514110 - 121.138.48.180:51247 - udp4 - as.atlassian.com
+1567308514522 - 121.138.48.180:62591 - udp4 - firebaseremoteconfig.googleapis.com
+1567308514527 - 121.138.48.180:50551 - udp4 - c.trello.com
+1567309490999 - 121.138.48.180:64443 - udp4 - time-ios.apple.com
+1567309490999 - 121.138.48.180:58537 - udp4 - gdmf.apple.com
+1567309491346 - 121.138.48.180:54715 - udp4 - ocsp.apple.com
+1567309496668 - 121.138.48.180:61990 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.12.44.56 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.12.44.56 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+1567309497679 - 121.138.48.180:61990 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.12.44.57 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.12.44.57 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:801::200a","ttl":3600,"class":"IN"}
+1567309972173 - 221.222.244.174:2999 - udp4 - live.com
+1567310476068 - 121.138.48.180:54208 - udp4 - oauthaccountmanager.googleapis.com
+1567310476071 - 121.138.48.180:52306 - udp4 - edgeapi.slack.com
+1567310476082 - 121.138.48.180:49781 - udp4 - gsp64-ssl.ls.apple.com
+1567310476239 - 121.138.48.180:49650 - udp4 - slack.com
+1567310476440 - 121.138.48.180:51080 - udp4 - edge-mqtt.facebook.com
+1567310476672 - 121.138.48.180:54897 - udp4 - inbox.google.com
+1567310477261 - 121.138.48.180:62075 - udp4 - graph.facebook.com
+1567310477997 - 121.138.48.180:61673 - udp4 - settings.crashlytics.com
+1567310478017 - 121.138.48.180:52332 - udp4 - e.crashlytics.com
+1567310478053 - 121.138.48.180:55321 - udp4 - app-measurement.com
+1567310478379 - 121.138.48.180:56428 - udp4 - p21-buy.itunes.apple.com
+1567310478613 - 121.138.48.180:58509 - udp4 - sdk.iad-01.braze.com
+1567310479114 - 121.138.48.180:54265 - udp4 - play.googleapis.com
+1567310479466 - 121.138.48.180:50619 - udp4 - www.google.com
+1567310479709 - 121.138.48.180:64373 - udp4 - www.gstatic.com
+1567310479774 - 121.138.48.180:57336 - udp4 - time.google.com
+1567310479897 - 121.138.48.180:57233 - udp4 - app-auth.banksalad.com
+1567310479987 - 121.138.48.180:59450 - udp4 - iid.googleapis.com
+1567310480065 - 121.138.48.180:52124 - udp4 - sdk.iad-03.braze.com
+1567310481346 - 121.138.48.180:50617 - udp4 - check.banksalad.com
+1567310481440 - 121.138.48.180:52254 - udp4 - cloudconfig.googleapis.com
+1567310481494 - 121.138.48.180:60236 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567310481497 - 121.138.48.180:52649 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+1567310481531 - 121.138.48.180:56749 - udp4 - api-gateway.banksalad.com
+[ ERROR ] - 2019.9.1.13.1.21 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.13.1.21 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81a::200a","ttl":3600,"class":"IN"}
+1567310481816 - 121.138.48.180:56305 - udp4 - gateway.icloud.com
+1567310481918 - 121.138.48.180:63611 - udp4 - ultron.banksalad.com
+1567310482508 - 121.138.48.180:52649 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.13.1.22 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.13.1.22 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567311366384 - 121.138.48.180:57355 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.13.16.6 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.13.16.6 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567311367388 - 121.138.48.180:57355 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.13.16.7 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.13.16.7 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567312285133 - 121.138.48.180:54492 - udp4 - init.itunes.apple.com
+1567312285520 - 121.138.48.180:63881 - udp4 - xp.apple.com
+1567312287573 - 121.138.48.180:61267 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.13.31.27 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.13.31.27 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+1567312288585 - 121.138.48.180:61267 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.13.31.28 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.13.31.28 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567314049897 - 121.138.48.180:54085 - udp4 - time-ios.apple.com
+1567314050296 - 121.138.48.180:62028 - udp4 - api.usebutton.com
+1567314050297 - 121.138.48.180:52158 - udp4 - app4.moovitapp.com
+1567314050297 - 121.138.48.180:62373 - udp4 - tvm.moovitapp.com
+1567314050297 - 121.138.48.180:50967 - udp4 - static.moovitapp.com
+1567314050698 - 121.138.48.180:52895 - udp4 - app4cdn.moovitapp.com
+1567314051603 - 121.138.48.180:58714 - udp4 - tvm.moovitapp.com
+1567314051670 - 121.138.48.180:64021 - udp4 - kinesis.eu-west-1.amazonaws.com
+1567314052389 - 121.138.48.180:53054 - udp4 - static.moovitapp.com
+1567314056245 - 121.138.48.180:63362 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.0.56 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.0.56 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567314057250 - 121.138.48.180:63362 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.0.57 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.0.57 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:819::200a","ttl":3600,"class":"IN"}
+1567314654381 - 121.138.48.180:57676 - udp4 - www.googleadservices.com
+1567314654384 - 121.138.48.180:63032 - udp4 - slack.com
+1567314655493 - 121.138.48.180:57062 - udp4 - oauthaccountmanager.googleapis.com
+1567314655995 - 121.138.48.180:59910 - udp4 - inbox.google.com
+1567314656635 - 121.138.48.180:55870 - udp4 - graph.facebook.com
+1567314657228 - 121.138.48.180:49918 - udp4 - e.crashlytics.com
+1567314657230 - 121.138.48.180:50383 - udp4 - settings.crashlytics.com
+1567314657294 - 121.138.48.180:56016 - udp4 - app-measurement.com
+1567314657487 - 121.138.48.180:53912 - udp4 - play.googleapis.com
+1567314657650 - 121.138.48.180:64757 - udp4 - p21-buy.itunes.apple.com
+1567314658100 - 121.138.48.180:61513 - udp4 - www.google.com
+1567314658426 - 121.138.48.180:55070 - udp4 - sdk.iad-01.braze.com
+1567314659577 - 121.138.48.180:59641 - udp4 - www.gstatic.com
+1567314659860 - 121.138.48.180:63393 - udp4 - time.google.com
+1567314659927 - 121.138.48.180:60397 - udp4 - app-auth.banksalad.com
+1567314660022 - 121.138.48.180:60545 - udp4 - iid.googleapis.com
+1567314660066 - 121.138.48.180:57319 - udp4 - sdk.iad-03.braze.com
+1567314661793 - 121.138.48.180:64925 - udp4 - check.banksalad.com
+1567314661823 - 121.138.48.180:63252 - udp4 - cloudconfig.googleapis.com
+1567314661863 - 121.138.48.180:57638 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567314661864 - 121.138.48.180:59928 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.11.1 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.11.1 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567314661993 - 121.138.48.180:54034 - udp4 - api-gateway.banksalad.com
+1567314662375 - 121.138.48.180:49917 - udp4 - ultron.banksalad.com
+1567314662872 - 121.138.48.180:59928 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.11.2 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.11.2 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567314827345 - 121.138.48.180:62865 - udp4 - cl5.apple.com
+1567314831104 - 121.138.48.180:54903 - udp4 - init-p01md.apple.com
+1567314831104 - 121.138.48.180:57896 - udp4 - init.ess.apple.com
+1567314831105 - 121.138.48.180:64689 - udp4 - query.ess.apple.com
+1567314833921 - 121.138.48.180:55283 - udp4 - edge-mqtt.facebook.com
+1567314833922 - 121.138.48.180:52813 - udp4 - lithium.facebook.com
+1567314835990 - 121.138.48.180:57199 - udp4 - scontent-icn1-1.xx.fbcdn.net
+1567314837340 - 121.138.48.180:54021 - udp4 - init-p01st.push.apple.com
+1567314837679 - 121.138.48.180:60600 - udp4 - 19-courier.push.apple.com
+1567314839163 - 121.138.48.180:58670 - udp4 - www.icloud.com
+1567314839164 - 121.138.48.180:62782 - udp4 - www.apple.com
+1567314839164 - 121.138.48.180:52949 - udp4 - apple.com
+1567314839165 - 121.138.48.180:57820 - udp4 - ssl.google-analytics.com
+1567314839300 - 121.138.48.180:52016 - udp4 - external-icn1-1.xx.fbcdn.net
+1567314839301 - 121.138.48.180:52259 - udp4 - video-icn1-1.xx.fbcdn.net
+1567314844079 - 121.138.48.180:50974 - udp4 - www.facebook.com
+1567314922433 - 121.138.48.180:62866 - udp4 - gateway.icloud.com
+1567314923632 - 121.138.48.180:60539 - udp4 - p56-availability.icloud.com
+1567314930095 - 121.138.48.180:60247 - udp4 - p56-keyvalueservice.icloud.com
+1567314982378 - 121.138.48.180:56417 - udp4 - bag.itunes.apple.com
+1567314982690 - 121.138.48.180:60783 - udp4 - mesu.apple.com
+1567314986495 - 121.138.48.180:52456 - udp4 - guzzoni.apple.com
+1567314986982 - 121.138.48.180:53478 - udp4 - 47-courier.push.apple.com
+1567314987238 - 121.138.48.180:54873 - udp4 - configuration.apple.com
+1567314994861 - 121.138.48.180:64092 - udp4 - trello.com
+1567314994862 - 121.138.48.180:54179 - udp4 - google.com
+1567314995068 - 121.138.48.180:60893 - udp4 - notify.bugsnag.com
+1567314995795 - 121.138.48.180:65431 - udp4 - edgeapi.slack.com
+1567315000485 - 121.138.48.180:51203 - udp4 - c.trello.com
+1567315002369 - 121.138.48.180:51879 - udp4 - inbox.google.com
+1567315003783 - 121.138.48.180:64207 - udp4 - r.uber.com
+1567315003785 - 121.138.48.180:61784 - udp4 - biz.uber.com
+1567315003786 - 121.138.48.180:51316 - udp4 - login.uber.com
+1567315003788 - 121.138.48.180:50565 - udp4 - m.uber.com
+1567315003790 - 121.138.48.180:62938 - udp4 - partners.uber.com
+1567315003792 - 121.138.48.180:53489 - udp4 - bonjour.uber.com
+1567315004789 - 121.138.48.180:61784 - udp4 - biz.uber.com
+1567315004790 - 121.138.48.180:62938 - udp4 - partners.uber.com
+1567315004791 - 121.138.48.180:50565 - udp4 - m.uber.com
+1567315004793 - 121.138.48.180:53489 - udp4 - bonjour.uber.com
+1567315005022 - 121.138.48.180:65035 - udp4 - se2.itunes.apple.com
+1567315005934 - 121.138.48.180:62018 - udp4 - uberm.bttn.io
+1567315006026 - 121.138.48.180:65035 - udp4 - se2.itunes.apple.com
+1567315006759 - 121.138.48.180:63012 - udp4 - probe.icloud.com
+1567315006935 - 121.138.48.180:62018 - udp4 - uberm.bttn.io
+1567315007764 - 121.138.48.180:63012 - udp4 - probe.icloud.com
+1567315177112 - 121.138.48.180:63614 - udp4 - smp-device-content.apple.com
+1567315430945 - 121.138.48.180:54108 - udp4 - 13-courier.push.apple.com
+1567315433715 - 121.138.48.180:60544 - udp4 - supercell.helpshift.com
+1567315434084 - 121.138.48.180:59138 - udp4 - init.gc.apple.com
+1567315434104 - 121.138.48.180:50979 - udp4 - supercell.helpshift.com
+1567315434194 - 121.138.48.180:62722 - udp4 - static.gc.apple.com
+1567315434403 - 121.138.48.180:54805 - udp4 - profile.gc.apple.com
+1567315434743 - 121.138.48.180:54573 - udp4 - game.clashofclans.com
+1567315434947 - 121.138.48.180:65126 - udp4 - inbox.clashofclans.com
+1567315434974 - 121.138.48.180:49897 - udp4 - stats.gc.apple.com
+1567315435584 - 121.138.48.180:53421 - udp4 - itunes.apple.com
+1567315435705 - 121.138.48.180:50947 - udp4 - s.mzstatic.com
+1567315435774 - 121.138.48.180:62672 - udp4 - www.youtube.com
+1567315435884 - 121.138.48.180:61278 - udp4 - play.itunes.apple.com
+1567315436114 - 121.138.48.180:57971 - udp4 - sp.itunes.apple.com
+1567315455474 - 121.138.48.180:58925 - udp4 - game.clashroyaleapp.com
+1567315458091 - 121.138.48.180:54589 - udp4 - inbox-production.esports.clashroyale.com
+1567315458202 - 121.138.48.180:54777 - udp4 - inbox.clashroyale.com
+1567315458599 - 121.138.48.180:59535 - udp4 - www.googletagmanager.com
+1567315471999 - 121.138.48.180:52145 - udp4 - 1681.engine.mobileapptracking.com
+1567315490519 - 121.138.48.180:56826 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.24.50 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.24.50 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567315491524 - 121.138.48.180:56826 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.24.51 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.24.51 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567315697463 - 121.138.48.180:62255 - udp4 - gsas.apple.com
+1567315698723 - 121.138.48.180:57225 - udp4 - config.uca.cloud.unity3d.com
+1567315699259 - 121.138.48.180:57072 - udp4 - setting.adzcore.com
+1567315699395 - 121.138.48.180:59593 - udp4 - api.uca.cloud.unity3d.com
+1567315703874 - 121.138.48.180:54590 - udp4 - api.tantan-sachun.neptunegamez.com
+1567315705095 - 121.138.48.180:51028 - udp4 - api.kakao.com
+1567315705410 - 121.138.48.180:57847 - udp4 - gameapi.kakao.com
+1567315705422 - 121.138.48.180:59696 - udp4 - api-log-analytics.cloud.toast.com
+1567315706199 - 121.138.48.180:58141 - udp4 - api-campaign-analytics.cloud.toast.com
+1567315825186 - 121.138.48.180:51546 - udp4 - api-webrp-analytics.cloud.toast.com
+1567316027112 - 121.138.48.180:49884 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.33.47 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.33.47 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567316028121 - 121.138.48.180:49884 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.33.48 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.33.48 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567316152662 - 121.138.48.180:53953 - udp4 - pancake.apple.com
+1567316488763 - 121.138.48.180:49688 - udp4 - 20.117.227.43.in-addr.arpa
+1567316489789 - 121.138.48.180:49688 - udp4 - 20.117.227.43.in-addr.arpa
+1567316492003 - 121.138.48.180:61254 - udp4 - 21.117.227.43.in-addr.arpa
+1567316493016 - 121.138.48.180:61254 - udp4 - 21.117.227.43.in-addr.arpa
+1567316496171 - 121.138.48.180:60782 - udp4 - th-p.talk.kakao.co.kr
+1567316645233 - 121.138.48.180:51849 - udp4 - 22.117.227.43.in-addr.arpa
+1567316646244 - 121.138.48.180:51849 - udp4 - 22.117.227.43.in-addr.arpa
+1567316804810 - 121.138.48.180:57648 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.46.44 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.46.44 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:809::200a","ttl":3600,"class":"IN"}
+1567316805815 - 121.138.48.180:57648 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.46.45 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.46.45 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80b::200a","ttl":3600,"class":"IN"}
+1567317343321 - 121.138.48.180:51293 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.55.43 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.55.43 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567317344326 - 121.138.48.180:51293 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.14.55.44 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.14.55.44 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80a::200a","ttl":3600,"class":"IN"}
+1567317581569 - 121.138.48.180:63997 - udp4 - mtalk.google.com
+1567317594344 - 121.138.48.180:58930 - udp4 - init.itunes.apple.com
+1567317594513 - 121.138.48.180:54556 - udp4 - xp.apple.com
+1567317734843 - 121.138.48.180:63864 - udp4 - api2.branch.io
+1567317734870 - 121.138.48.180:58185 - udp4 - api2.branch.io
+1567317734962 - 121.138.48.180:60562 - udp4 - m.welcomebank.co.kr
+1567317735109 - 121.138.48.180:58875 - udp4 - ocsp.digicert.com
+1567317743931 - 121.138.48.180:64499 - udp4 - mfcc.co.kr
+1567317758385 - 121.138.48.180:53344 - udp4 - bc.ad.daum.net
+1567317758601 - 121.138.48.180:51490 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.15.2.38 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.15.2.38 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567317758664 - 121.138.48.180:62202 - udp4 - t.appsflyer.com
+1567317758791 - 121.138.48.180:61253 - udp4 - events.appsflyer.com
+1567317759604 - 121.138.48.180:51490 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.15.2.39 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.15.2.39 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:818::200a","ttl":3600,"class":"IN"}
+1567317760875 - 121.138.48.180:61838 - udp4 - socket-io-gateway.banksalad.com
+1567317822012 - 121.138.48.180:56860 - udp4 - pushinbox.kbcard.com
+1567317824804 - 121.138.48.180:53656 - udp4 - fdr.vpay.co.kr
+1567317836505 - 121.138.48.180:55275 - udp4 - time-ios.apple.com
+1567317877543 - 121.138.48.180:63618 - udp4 - me.apple-dns.net
+1567317877561 - 121.138.48.180:65448 - udp4 - d1quj3q1wtu13m.cloudfront.net
+1567317877565 - 121.138.48.180:54946 - udp4 - api.amplitude.com
+1567317951873 - 121.138.48.180:51050 - udp4 - 10-courier.push.apple.com
+1567317959942 - 121.138.48.180:50194 - udp4 - ace.naver.com
+1567317960082 - 121.138.48.180:60198 - udp4 - static.nid.naver.com
+1567317960566 - 121.138.48.180:59519 - udp4 - apis.naver.com
+1567317960603 - 121.138.48.180:57591 - udp4 - nelo2-col.navercorp.com
+1567317961445 - 121.138.48.180:63173 - udp4 - api.appnotice.naver.com
+1567317962180 - 121.138.48.180:61778 - udp4 - music-phinf.pstatic.net
+1567317962187 - 121.138.48.180:57238 - udp4 - vibeapp.music.naver.com
+1567317962188 - 121.138.48.180:49730 - udp4 - musicmeta-phinf.pstatic.net
+1567317963887 - 121.138.48.180:49654 - udp4 - m-aod-music.pstatic.net
+1567318033664 - 121.138.48.180:54441 - udp4 - p52-mailws.icloud.com
+1567318034050 - 121.138.48.180:65137 - udp4 - imap.gmail.com
+1567318049454 - 121.138.48.180:65460 - udp4 - p52-imap.mail.me.com
+1567318740205 - 121.138.48.180:62241 - udp4 - time-ios.apple.com
+1567318923434 - 121.138.48.180:60731 - udp4 - valid.apple.com
+1567318923754 - 121.138.48.180:51716 - udp4 - safebrowsing.googleapis.com
+1567318924820 - 121.138.48.180:54312 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567318924960 - 121.138.48.180:61720 - udp4 - p56-contacts.icloud.com
+1567318924969 - 121.138.48.180:60501 - udp4 - google.com
+1567318924975 - 121.138.48.180:52422 - udp4 - ocsp.apple.com
+1567318924978 - 121.138.48.180:59436 - udp4 - p56-caldav.icloud.com
+1567318925819 - 121.138.48.180:54312 - udp4 - _bookmarkdavs._tcp.p70-bookmarks.icloud.com
+1567318926146 - 121.138.48.180:60077 - udp4 - calendar.google.com
+1567319047338 - 121.138.48.180:54039 - udp4 - graph.facebook.com
+1567319047338 - 121.138.48.180:55620 - udp4 - edge-mqtt.facebook.com
+1567319047339 - 121.138.48.180:49339 - udp4 - lithium.facebook.com
+1567319047507 - 121.138.48.180:55305 - udp4 - graph.facebook.com
+1567319047536 - 121.138.48.180:56364 - udp4 - lithium.facebook.com
+1567319049294 - 121.138.48.180:57926 - udp4 - scontent-icn1-1.xx.fbcdn.net
+1567319049295 - 121.138.48.180:57926 - udp4 - scontent-icn1-1.xx.fbcdn.net
+1567319049295 - 121.138.48.180:60142 - udp4 - external-icn1-1.xx.fbcdn.net
+1567319049295 - 121.138.48.180:60142 - udp4 - external-icn1-1.xx.fbcdn.net
+1567319049993 - 121.138.48.180:64434 - udp4 - video-icn1-1.xx.fbcdn.net
+1567319054539 - 121.138.48.180:56135 - udp4 - api.facebook.com
+1567319092412 - 121.138.48.180:62125 - udp4 - www.facebook.com
+1567319204044 - 121.138.48.180:55858 - udp4 - graph.facebook.com
+1567319228499 - 121.138.48.180:64880 - udp4 - gametab-gw.kakao.com
+1567319228656 - 121.138.48.180:61960 - udp4 - lg-talk.kakao.com
+1567319230389 - 121.138.48.180:53878 - udp4 - katalk.kakao.com
+1567319230698 - 121.138.48.180:51666 - udp4 - inbox.google.com
+1567319230698 - 121.138.48.180:51666 - udp4 - inbox.google.com
+1567319231540 - 121.138.48.180:55292 - udp4 - oauthaccountmanager.googleapis.com
+1567319231595 - 121.138.48.180:64037 - udp4 - www.googleadservices.com
+1567319237505 - 121.138.48.180:54011 - udp4 - settings.crashlytics.com
+1567319237510 - 121.138.48.180:59518 - udp4 - e.crashlytics.com
+1567319237545 - 121.138.48.180:49433 - udp4 - app-measurement.com
+1567319237564 - 121.138.48.180:56358 - udp4 - play.googleapis.com
+1567319237959 - 121.138.48.180:51882 - udp4 - p21-buy.itunes.apple.com
+1567319238101 - 121.138.48.180:50557 - udp4 - www.google.com
+1567319238198 - 121.138.48.180:54308 - udp4 - sdk.iad-01.braze.com
+1567319239666 - 121.138.48.180:61322 - udp4 - www.gstatic.com
+1567319239710 - 121.138.48.180:63977 - udp4 - time.google.com
+1567319239833 - 121.138.48.180:62167 - udp4 - app-auth.banksalad.com
+1567319239938 - 121.138.48.180:54246 - udp4 - iid.googleapis.com
+1567319240014 - 121.138.48.180:56271 - udp4 - sdk.iad-03.braze.com
+1567319241523 - 121.138.48.180:64713 - udp4 - check.banksalad.com
+1567319241556 - 121.138.48.180:63243 - udp4 - cloudconfig.googleapis.com
+1567319241641 - 121.138.48.180:52095 - udp4 - api-gateway.banksalad.com
+1567319241852 - 121.138.48.180:57807 - udp4 - ultron.banksalad.com
+1567319242031 - 121.138.48.180:63899 - udp4 - firebasedynamiclinks-ipv4.googleapis.com
+1567319242035 - 121.138.48.180:56150 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.15.27.22 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.15.27.22 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:800::200a","ttl":3600,"class":"IN"}
+1567319243046 - 121.138.48.180:56150 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.15.27.23 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.15.27.23 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567319469525 - 121.138.48.180:50684 - udp4 - item.kakaocdn.net
+1567319719057 - 121.138.48.180:59020 - udp4 - edge-mqtt.facebook.com
+1567319725190 - 121.138.48.180:61796 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.15.35.25 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.15.35.25 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567319726201 - 121.138.48.180:61796 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.15.35.26 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.15.35.26 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80d::200a","ttl":3600,"class":"IN"}
+1567320167816 - 121.138.48.180:63077 - udp4 - gateway.icloud.com
+1567320258437 - 121.138.48.180:58919 - udp4 - lithium.facebook.com
+1567320260682 - 121.138.48.180:61586 - udp4 - scontent-icn1-1.xx.fbcdn.net
+1567320260685 - 121.138.48.180:55540 - udp4 - video-icn1-1.xx.fbcdn.net
+1567320262157 - 121.138.48.180:53707 - udp4 - external-icn1-1.xx.fbcdn.net
+1567320262988 - 121.138.48.180:62937 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.15.44.23 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.15.44.23 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567320264113 - 121.138.48.180:62937 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.15.44.24 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.15.44.24 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:806::200a","ttl":3600,"class":"IN"}
+1567320352360 - 121.138.48.180:62041 - udp4 - star-mini.c10r.facebook.com
+1567320483312 - 121.138.48.180:57341 - udp4 - external.xx.fbcdn.net
+1567320580828 - 121.138.48.180:65231 - udp4 - static.xx.fbcdn.net
+1567320597298 - 198.108.66.115:58449 - udp4 - c.afekv.com
+1567320657772 - 121.138.48.180:57427 - udp4 - www.naver.com
+1567320657989 - 121.138.48.180:59808 - udp4 - cc.naver.com
+1567320657989 - 121.138.48.180:58201 - udp4 - l.m.naver.com
+1567320658216 - 121.138.48.180:55315 - udp4 - lcs.naver.com
+1567320658227 - 121.138.48.180:52311 - udp4 - global.apis.naver.com
+1567320658296 - 121.138.48.180:64954 - udp4 - nid.naver.com
+1567320658723 - 121.138.48.180:62162 - udp4 - sp.naver.com
+1567320658931 - 121.138.48.180:60152 - udp4 - mts.naver.com
+1567320659080 - 121.138.48.180:65297 - udp4 - configuration.apple.com
+1567320659080 - 121.138.48.180:54916 - udp4 - gsp-sl01-ssl.ls.apple.com
+1567320659080 - 121.138.48.180:51154 - udp4 - m.naver.com
+1567320659478 - 121.138.48.180:57607 - udp4 - ssl.pstatic.net
+1567320659852 - 121.138.48.180:59912 - udp4 - s.pstatic.net
+1567320660744 - 121.138.48.180:52041 - udp4 - phinf.pstatic.net
+1567320660745 - 121.138.48.180:52856 - udp4 - adlog.shopping.naver.com
+1567320661573 - 121.138.48.180:52534 - udp4 - mv.veta.naver.com
+1567320664843 - 121.138.48.180:63848 - udp4 - mac.search.naver.com
+1567320718455 - 121.138.48.180:51666 - udp4 - m.search.naver.com
+1567320718850 - 121.138.48.180:65379 - udp4 - search.pstatic.net
+1567320719297 - 121.138.48.180:63878 - udp4 - sstatic-g.rmcnmv.naver.net
+1567320719444 - 121.138.48.180:49538 - udp4 - er.search.naver.com
+1567320737097 - 121.138.48.180:62575 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.15.52.17 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.15.52.17 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:81b::200a","ttl":3600,"class":"IN"}
+1567320738101 - 121.138.48.180:62575 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.15.52.18 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.15.52.18 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80c::200a","ttl":3600,"class":"IN"}
+1567320833902 - 121.138.48.180:54291 - udp4 - gs-loc.apple.com
+1567321193182 - 121.138.48.180:49363 - udp4 - ssl.google-analytics.com
+1567321193182 - 121.138.48.180:53197 - udp4 - apple.com
+1567321193183 - 121.138.48.180:56049 - udp4 - www.icloud.com
+1567321193183 - 121.138.48.180:56448 - udp4 - www.apple.com
+1567321250436 - 121.138.48.180:54063 - udp4 - inbox.clashofclans.com
+1567321250436 - 121.138.48.180:50609 - udp4 - supercell.helpshift.com
+1567321250822 - 121.138.48.180:56932 - udp4 - init.gc.apple.com
+1567321250852 - 121.138.48.180:49663 - udp4 - supercell.helpshift.com
+1567321250858 - 121.138.48.180:56226 - udp4 - init-p01st.push.apple.com
+1567321250900 - 121.138.48.180:53964 - udp4 - static.gc.apple.com
+1567321251010 - 121.138.48.180:53887 - udp4 - profile.gc.apple.com
+1567321251030 - 121.138.48.180:62712 - udp4 - 3-courier.push.apple.com
+1567321251481 - 121.138.48.180:49867 - udp4 - game.clashofclans.com
+1567321251554 - 121.138.48.180:57674 - udp4 - stats.gc.apple.com
+1567321251686 - 121.138.48.180:53129 - udp4 - inbox.clashofclans.com
+1567321252324 - 121.138.48.180:58355 - udp4 - itunes.apple.com
+1567321252362 - 121.138.48.180:53790 - udp4 - www.youtube.com
+1567321252564 - 121.138.48.180:59647 - udp4 - play.itunes.apple.com
+1567321252813 - 121.138.48.180:53849 - udp4 - sp.itunes.apple.com
+1567321254933 - 121.138.48.180:63249 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.16.0.54 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.16.0.54 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567321255937 - 121.138.48.180:63249 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.16.0.55 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.16.0.55 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:807::200a","ttl":3600,"class":"IN"}
+1567321323318 - 121.138.48.180:57805 - udp4 - pancake.apple.com
+1567321333794 - 121.138.48.180:64569 - udp4 - guzzoni.apple.com
+1567321400863 - 121.138.48.180:60550 - udp4 - l.msdl.naver.com
+1567321400939 - 121.138.48.180:63615 - udp4 - s.search.naver.com.nheos.com
+1567321400982 - 121.138.48.180:65414 - udp4 - my.search.naver.com
+1567321401334 - 121.138.48.180:58313 - udp4 - static.naver.net
+1567321414221 - 121.138.48.180:51922 - udp4 - search.like.naver.com
+1567321414242 - 121.138.48.180:50994 - udp4 - static-audiop.pstatic.net
+1567321499949 - 121.138.48.180:53386 - udp4 - config.uca.cloud.unity3d.com
+1567321500482 - 121.138.48.180:49950 - udp4 - setting.adzcore.com
+1567321500680 - 121.138.48.180:55056 - udp4 - api.uca.cloud.unity3d.com
+1567321505258 - 121.138.48.180:62535 - udp4 - api.tantan-sachun.neptunegamez.com
+1567321505939 - 121.138.48.180:65278 - udp4 - api.kakao.com
+1567321506287 - 121.138.48.180:58123 - udp4 - gameapi.kakao.com
+1567321506293 - 121.138.48.180:56749 - udp4 - api-log-analytics.cloud.toast.com
+1567321507192 - 121.138.48.180:56233 - udp4 - api-campaign-analytics.cloud.toast.com
+1567321626162 - 121.138.48.180:61026 - udp4 - api-webrp-analytics.cloud.toast.com
+1567321673064 - 121.138.48.180:60268 - udp4 - mesu.apple.com
+1567321722205 - 121.138.48.180:52901 - udp4 - b-api.facebook.com
+1567321722327 - 121.138.48.180:49366 - udp4 - b-graph.facebook.com
+1567321728095 - 121.138.48.180:54116 - udp4 - p56-keyvalueservice.icloud.com
+1567321728519 - 121.138.48.180:62275 - udp4 - firebasedynamiclinks-ipv6.googleapis.com
+[ ERROR ] - 2019.9.1.16.8.48 - [ ERROR.000 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
+[ ERROR ] - 2019.9.1.16.8.48 - [ ERROR.001 ] - Error: Bad A record data : {"name":"firebasedynamiclinks-ipv6.googleapis.com","type":"A","data":"2404:6800:4004:80f::200a","ttl":3600,"class":"IN"}
